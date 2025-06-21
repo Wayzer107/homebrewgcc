@@ -1,0 +1,12 @@
+Test run by jamie on Sun Jun 22 00:44:15 2025
+Native configuration is x86_64-pc-linux-gnu
+
+		=== gfortran tests ===
+
+Schedule of variations:
+    unix
+
+Running target unix
+
+		=== gfortran Summary ===
+

@@ -1,0 +1,5996 @@
+# 0 "config.cc"
+# 1 "/home/jamie/Sources/gcc8/src/gcc-8.5.0/gcc-build/x86_64-pc-linux-gnu/libstdc++-v3/testsuite//"
+# 0 "<built-in>"
+#define __STDC__
+# 0 "<built-in>"
+#define __cplusplus
+# 0 "<built-in>"
+#define __STDC_UTF_16__
+# 0 "<built-in>"
+#define __STDC_UTF_32__
+# 0 "<built-in>"
+#define __STDC_HOSTED__
+# 0 "<built-in>"
+#define __STDC_EMBED_NOT_FOUND__
+# 0 "<built-in>"
+#define __STDC_EMBED_FOUND__
+# 0 "<built-in>"
+#define __STDC_EMBED_EMPTY__
+# 0 "<built-in>"
+#define __GNUC__
+# 0 "<built-in>"
+#define __GNUC_MINOR__
+# 0 "<built-in>"
+#define __GNUC_PATCHLEVEL__
+# 0 "<built-in>"
+#define __VERSION__
+# 0 "<built-in>"
+#define __ATOMIC_RELAXED
+# 0 "<built-in>"
+#define __ATOMIC_SEQ_CST
+# 0 "<built-in>"
+#define __ATOMIC_ACQUIRE
+# 0 "<built-in>"
+#define __ATOMIC_RELEASE
+# 0 "<built-in>"
+#define __ATOMIC_ACQ_REL
+# 0 "<built-in>"
+#define __ATOMIC_CONSUME
+# 0 "<built-in>"
+#define __pic__
+# 0 "<built-in>"
+#define __PIC__
+# 0 "<built-in>"
+#define __pie__
+# 0 "<built-in>"
+#define __PIE__
+# 0 "<built-in>"
+#define __OPTIMIZE__
+# 0 "<built-in>"
+#define __FINITE_MATH_ONLY__
+# 0 "<built-in>"
+#define _LP64
+# 0 "<built-in>"
+#define __LP64__
+# 0 "<built-in>"
+#define __SIZEOF_INT__
+# 0 "<built-in>"
+#define __SIZEOF_LONG__
+# 0 "<built-in>"
+#define __SIZEOF_LONG_LONG__
+# 0 "<built-in>"
+#define __SIZEOF_SHORT__
+# 0 "<built-in>"
+#define __SIZEOF_FLOAT__
+# 0 "<built-in>"
+#define __SIZEOF_DOUBLE__
+# 0 "<built-in>"
+#define __SIZEOF_LONG_DOUBLE__
+# 0 "<built-in>"
+#define __SIZEOF_SIZE_T__
+# 0 "<built-in>"
+#define __CHAR_BIT__
+# 0 "<built-in>"
+#define __BIGGEST_ALIGNMENT__
+# 0 "<built-in>"
+#define __ORDER_LITTLE_ENDIAN__
+# 0 "<built-in>"
+#define __ORDER_BIG_ENDIAN__
+# 0 "<built-in>"
+#define __ORDER_PDP_ENDIAN__
+# 0 "<built-in>"
+#define __BYTE_ORDER__
+# 0 "<built-in>"
+#define __FLOAT_WORD_ORDER__
+# 0 "<built-in>"
+#define __SIZEOF_POINTER__
+# 0 "<built-in>"
+#define __GNUC_EXECUTION_CHARSET_NAME
+# 0 "<built-in>"
+#define __GNUC_WIDE_EXECUTION_CHARSET_NAME
+# 0 "<built-in>"
+#define __GNUG__
+# 0 "<built-in>"
+#define __SIZE_TYPE__
+# 0 "<built-in>"
+#define __PTRDIFF_TYPE__
+# 0 "<built-in>"
+#define __WCHAR_TYPE__
+# 0 "<built-in>"
+#define __WINT_TYPE__
+# 0 "<built-in>"
+#define __INTMAX_TYPE__
+# 0 "<built-in>"
+#define __UINTMAX_TYPE__
+# 0 "<built-in>"
+#define __CHAR16_TYPE__
+# 0 "<built-in>"
+#define __CHAR32_TYPE__
+# 0 "<built-in>"
+#define __SIG_ATOMIC_TYPE__
+# 0 "<built-in>"
+#define __INT8_TYPE__
+# 0 "<built-in>"
+#define __INT16_TYPE__
+# 0 "<built-in>"
+#define __INT32_TYPE__
+# 0 "<built-in>"
+#define __INT64_TYPE__
+# 0 "<built-in>"
+#define __UINT8_TYPE__
+# 0 "<built-in>"
+#define __UINT16_TYPE__
+# 0 "<built-in>"
+#define __UINT32_TYPE__
+# 0 "<built-in>"
+#define __UINT64_TYPE__
+# 0 "<built-in>"
+#define __INT_LEAST8_TYPE__
+# 0 "<built-in>"
+#define __INT_LEAST16_TYPE__
+# 0 "<built-in>"
+#define __INT_LEAST32_TYPE__
+# 0 "<built-in>"
+#define __INT_LEAST64_TYPE__
+# 0 "<built-in>"
+#define __UINT_LEAST8_TYPE__
+# 0 "<built-in>"
+#define __UINT_LEAST16_TYPE__
+# 0 "<built-in>"
+#define __UINT_LEAST32_TYPE__
+# 0 "<built-in>"
+#define __UINT_LEAST64_TYPE__
+# 0 "<built-in>"
+#define __INT_FAST8_TYPE__
+# 0 "<built-in>"
+#define __INT_FAST16_TYPE__
+# 0 "<built-in>"
+#define __INT_FAST32_TYPE__
+# 0 "<built-in>"
+#define __INT_FAST64_TYPE__
+# 0 "<built-in>"
+#define __UINT_FAST8_TYPE__
+# 0 "<built-in>"
+#define __UINT_FAST16_TYPE__
+# 0 "<built-in>"
+#define __UINT_FAST32_TYPE__
+# 0 "<built-in>"
+#define __UINT_FAST64_TYPE__
+# 0 "<built-in>"
+#define __INTPTR_TYPE__
+# 0 "<built-in>"
+#define __UINTPTR_TYPE__
+# 0 "<built-in>"
+#define __GXX_WEAK__
+# 0 "<built-in>"
+#define __DEPRECATED
+# 0 "<built-in>"
+#define __GXX_RTTI
+# 0 "<built-in>"
+#define __cpp_rtti
+# 0 "<built-in>"
+#define __GXX_EXPERIMENTAL_CXX0X__
+# 0 "<built-in>"
+#define __GXX_CONSTEXPR_ASM__
+# 0 "<built-in>"
+#define __cpp_binary_literals
+# 0 "<built-in>"
+#define __cpp_hex_float
+# 0 "<built-in>"
+#define __cpp_runtime_arrays
+# 0 "<built-in>"
+#define __cpp_raw_strings
+# 0 "<built-in>"
+#define __cpp_unicode_literals
+# 0 "<built-in>"
+#define __cpp_user_defined_literals
+# 0 "<built-in>"
+#define __cpp_lambdas
+# 0 "<built-in>"
+#define __cpp_decltype
+# 0 "<built-in>"
+#define __cpp_attributes
+# 0 "<built-in>"
+#define __cpp_rvalue_reference
+# 0 "<built-in>"
+#define __cpp_rvalue_references
+# 0 "<built-in>"
+#define __cpp_variadic_templates
+# 0 "<built-in>"
+#define __cpp_initializer_lists
+# 0 "<built-in>"
+#define __cpp_delegating_constructors
+# 0 "<built-in>"
+#define __cpp_nsdmi
+# 0 "<built-in>"
+#define __cpp_inheriting_constructors
+# 0 "<built-in>"
+#define __cpp_ref_qualifiers
+# 0 "<built-in>"
+#define __cpp_alias_templates
+# 0 "<built-in>"
+#define __cpp_return_type_deduction
+# 0 "<built-in>"
+#define __cpp_init_captures
+# 0 "<built-in>"
+#define __cpp_generic_lambdas
+# 0 "<built-in>"
+#define __cpp_decltype_auto
+# 0 "<built-in>"
+#define __cpp_aggregate_nsdmi
+# 0 "<built-in>"
+#define __cpp_variable_templates
+# 0 "<built-in>"
+#define __cpp_digit_separators
+# 0 "<built-in>"
+#define __cpp_unicode_characters
+# 0 "<built-in>"
+#define __cpp_static_assert
+# 0 "<built-in>"
+#define __cpp_namespace_attributes
+# 0 "<built-in>"
+#define __cpp_enumerator_attributes
+# 0 "<built-in>"
+#define __cpp_nested_namespace_definitions
+# 0 "<built-in>"
+#define __cpp_fold_expressions
+# 0 "<built-in>"
+#define __cpp_nontype_template_args
+# 0 "<built-in>"
+#define __cpp_range_based_for
+# 0 "<built-in>"
+#define __cpp_constexpr
+# 0 "<built-in>"
+#define __cpp_if_constexpr
+# 0 "<built-in>"
+#define __cpp_capture_star_this
+# 0 "<built-in>"
+#define __cpp_inline_variables
+# 0 "<built-in>"
+#define __cpp_aggregate_bases
+# 0 "<built-in>"
+#define __cpp_deduction_guides
+# 0 "<built-in>"
+#define __cpp_noexcept_function_type
+# 0 "<built-in>"
+#define __cpp_template_auto
+# 0 "<built-in>"
+#define __cpp_structured_bindings
+# 0 "<built-in>"
+#define __cpp_variadic_using
+# 0 "<built-in>"
+#define __cpp_guaranteed_copy_elision
+# 0 "<built-in>"
+#define __cpp_nontype_template_parameter_auto
+# 0 "<built-in>"
+#define __cpp_sized_deallocation
+# 0 "<built-in>"
+#define __cpp_aligned_new
+# 0 "<built-in>"
+#define __STDCPP_DEFAULT_NEW_ALIGNMENT__
+# 0 "<built-in>"
+#define __cpp_template_template_args
+# 0 "<built-in>"
+#define __cpp_threadsafe_static_init
+# 0 "<built-in>"
+#define __STDCPP_THREADS__
+# 0 "<built-in>"
+#define __EXCEPTIONS
+# 0 "<built-in>"
+#define __cpp_exceptions
+# 0 "<built-in>"
+#define __GXX_ABI_VERSION
+# 0 "<built-in>"
+#define __SCHAR_MAX__
+# 0 "<built-in>"
+#define __SHRT_MAX__
+# 0 "<built-in>"
+#define __INT_MAX__
+# 0 "<built-in>"
+#define __LONG_MAX__
+# 0 "<built-in>"
+#define __LONG_LONG_MAX__
+# 0 "<built-in>"
+#define __WCHAR_MAX__
+# 0 "<built-in>"
+#define __WCHAR_MIN__
+# 0 "<built-in>"
+#define __WINT_MAX__
+# 0 "<built-in>"
+#define __WINT_MIN__
+# 0 "<built-in>"
+#define __PTRDIFF_MAX__
+# 0 "<built-in>"
+#define __SIZE_MAX__
+# 0 "<built-in>"
+#define __SCHAR_WIDTH__
+# 0 "<built-in>"
+#define __SHRT_WIDTH__
+# 0 "<built-in>"
+#define __INT_WIDTH__
+# 0 "<built-in>"
+#define __LONG_WIDTH__
+# 0 "<built-in>"
+#define __LONG_LONG_WIDTH__
+# 0 "<built-in>"
+#define __WCHAR_WIDTH__
+# 0 "<built-in>"
+#define __WINT_WIDTH__
+# 0 "<built-in>"
+#define __PTRDIFF_WIDTH__
+# 0 "<built-in>"
+#define __SIZE_WIDTH__
+# 0 "<built-in>"
+#define __GLIBCXX_TYPE_INT_N_0
+# 0 "<built-in>"
+#define __GLIBCXX_BITSIZE_INT_N_0
+# 0 "<built-in>"
+#define __INTMAX_MAX__
+# 0 "<built-in>"
+#define __INTMAX_C
+# 0 "<built-in>"
+#define __UINTMAX_MAX__
+# 0 "<built-in>"
+#define __UINTMAX_C
+# 0 "<built-in>"
+#define __INTMAX_WIDTH__
+# 0 "<built-in>"
+#define __SIG_ATOMIC_MAX__
+# 0 "<built-in>"
+#define __SIG_ATOMIC_MIN__
+# 0 "<built-in>"
+#define __SIG_ATOMIC_WIDTH__
+# 0 "<built-in>"
+#define __INT8_MAX__
+# 0 "<built-in>"
+#define __INT16_MAX__
+# 0 "<built-in>"
+#define __INT32_MAX__
+# 0 "<built-in>"
+#define __INT64_MAX__
+# 0 "<built-in>"
+#define __UINT8_MAX__
+# 0 "<built-in>"
+#define __UINT16_MAX__
+# 0 "<built-in>"
+#define __UINT32_MAX__
+# 0 "<built-in>"
+#define __UINT64_MAX__
+# 0 "<built-in>"
+#define __INT_LEAST8_MAX__
+# 0 "<built-in>"
+#define __INT8_C
+# 0 "<built-in>"
+#define __INT_LEAST8_WIDTH__
+# 0 "<built-in>"
+#define __INT_LEAST16_MAX__
+# 0 "<built-in>"
+#define __INT16_C
+# 0 "<built-in>"
+#define __INT_LEAST16_WIDTH__
+# 0 "<built-in>"
+#define __INT_LEAST32_MAX__
+# 0 "<built-in>"
+#define __INT32_C
+# 0 "<built-in>"
+#define __INT_LEAST32_WIDTH__
+# 0 "<built-in>"
+#define __INT_LEAST64_MAX__
+# 0 "<built-in>"
+#define __INT64_C
+# 0 "<built-in>"
+#define __INT_LEAST64_WIDTH__
+# 0 "<built-in>"
+#define __UINT_LEAST8_MAX__
+# 0 "<built-in>"
+#define __UINT8_C
+# 0 "<built-in>"
+#define __UINT_LEAST16_MAX__
+# 0 "<built-in>"
+#define __UINT16_C
+# 0 "<built-in>"
+#define __UINT_LEAST32_MAX__
+# 0 "<built-in>"
+#define __UINT32_C
+# 0 "<built-in>"
+#define __UINT_LEAST64_MAX__
+# 0 "<built-in>"
+#define __UINT64_C
+# 0 "<built-in>"
+#define __INT_FAST8_MAX__
+# 0 "<built-in>"
+#define __INT_FAST8_WIDTH__
+# 0 "<built-in>"
+#define __INT_FAST16_MAX__
+# 0 "<built-in>"
+#define __INT_FAST16_WIDTH__
+# 0 "<built-in>"
+#define __INT_FAST32_MAX__
+# 0 "<built-in>"
+#define __INT_FAST32_WIDTH__
+# 0 "<built-in>"
+#define __INT_FAST64_MAX__
+# 0 "<built-in>"
+#define __INT_FAST64_WIDTH__
+# 0 "<built-in>"
+#define __UINT_FAST8_MAX__
+# 0 "<built-in>"
+#define __UINT_FAST16_MAX__
+# 0 "<built-in>"
+#define __UINT_FAST32_MAX__
+# 0 "<built-in>"
+#define __UINT_FAST64_MAX__
+# 0 "<built-in>"
+#define __INTPTR_MAX__
+# 0 "<built-in>"
+#define __INTPTR_WIDTH__
+# 0 "<built-in>"
+#define __UINTPTR_MAX__
+# 0 "<built-in>"
+#define __GCC_IEC_559
+# 0 "<built-in>"
+#define __GCC_IEC_559_COMPLEX
+# 0 "<built-in>"
+#define __FLT_EVAL_METHOD__
+# 0 "<built-in>"
+#define __FLT_EVAL_METHOD_TS_18661_3__
+# 0 "<built-in>"
+#define __DEC_EVAL_METHOD__
+# 0 "<built-in>"
+#define __FLT_RADIX__
+# 0 "<built-in>"
+#define __FLT_MANT_DIG__
+# 0 "<built-in>"
+#define __FLT_DIG__
+# 0 "<built-in>"
+#define __FLT_MIN_EXP__
+# 0 "<built-in>"
+#define __FLT_MIN_10_EXP__
+# 0 "<built-in>"
+#define __FLT_MAX_EXP__
+# 0 "<built-in>"
+#define __FLT_MAX_10_EXP__
+# 0 "<built-in>"
+#define __FLT_DECIMAL_DIG__
+# 0 "<built-in>"
+#define __FLT_MAX__
+# 0 "<built-in>"
+#define __FLT_NORM_MAX__
+# 0 "<built-in>"
+#define __FLT_MIN__
+# 0 "<built-in>"
+#define __FLT_EPSILON__
+# 0 "<built-in>"
+#define __FLT_DENORM_MIN__
+# 0 "<built-in>"
+#define __FLT_HAS_DENORM__
+# 0 "<built-in>"
+#define __FLT_HAS_INFINITY__
+# 0 "<built-in>"
+#define __FLT_HAS_QUIET_NAN__
+# 0 "<built-in>"
+#define __FLT_IS_IEC_60559__
+# 0 "<built-in>"
+#define __DBL_MANT_DIG__
+# 0 "<built-in>"
+#define __DBL_DIG__
+# 0 "<built-in>"
+#define __DBL_MIN_EXP__
+# 0 "<built-in>"
+#define __DBL_MIN_10_EXP__
+# 0 "<built-in>"
+#define __DBL_MAX_EXP__
+# 0 "<built-in>"
+#define __DBL_MAX_10_EXP__
+# 0 "<built-in>"
+#define __DBL_DECIMAL_DIG__
+# 0 "<built-in>"
+#define __DBL_MAX__
+# 0 "<built-in>"
+#define __DBL_NORM_MAX__
+# 0 "<built-in>"
+#define __DBL_MIN__
+# 0 "<built-in>"
+#define __DBL_EPSILON__
+# 0 "<built-in>"
+#define __DBL_DENORM_MIN__
+# 0 "<built-in>"
+#define __DBL_HAS_DENORM__
+# 0 "<built-in>"
+#define __DBL_HAS_INFINITY__
+# 0 "<built-in>"
+#define __DBL_HAS_QUIET_NAN__
+# 0 "<built-in>"
+#define __DBL_IS_IEC_60559__
+# 0 "<built-in>"
+#define __LDBL_MANT_DIG__
+# 0 "<built-in>"
+#define __LDBL_DIG__
+# 0 "<built-in>"
+#define __LDBL_MIN_EXP__
+# 0 "<built-in>"
+#define __LDBL_MIN_10_EXP__
+# 0 "<built-in>"
+#define __LDBL_MAX_EXP__
+# 0 "<built-in>"
+#define __LDBL_MAX_10_EXP__
+# 0 "<built-in>"
+#define __DECIMAL_DIG__
+# 0 "<built-in>"
+#define __LDBL_DECIMAL_DIG__
+# 0 "<built-in>"
+#define __LDBL_MAX__
+# 0 "<built-in>"
+#define __LDBL_NORM_MAX__
+# 0 "<built-in>"
+#define __LDBL_MIN__
+# 0 "<built-in>"
+#define __LDBL_EPSILON__
+# 0 "<built-in>"
+#define __LDBL_DENORM_MIN__
+# 0 "<built-in>"
+#define __LDBL_HAS_DENORM__
+# 0 "<built-in>"
+#define __LDBL_HAS_INFINITY__
+# 0 "<built-in>"
+#define __LDBL_HAS_QUIET_NAN__
+# 0 "<built-in>"
+#define __LDBL_IS_IEC_60559__
+# 0 "<built-in>"
+#define __FLT16_MANT_DIG__
+# 0 "<built-in>"
+#define __FLT16_DIG__
+# 0 "<built-in>"
+#define __FLT16_MIN_EXP__
+# 0 "<built-in>"
+#define __FLT16_MIN_10_EXP__
+# 0 "<built-in>"
+#define __FLT16_MAX_EXP__
+# 0 "<built-in>"
+#define __FLT16_MAX_10_EXP__
+# 0 "<built-in>"
+#define __FLT16_DECIMAL_DIG__
+# 0 "<built-in>"
+#define __FLT16_MAX__
+# 0 "<built-in>"
+#define __FLT16_NORM_MAX__
+# 0 "<built-in>"
+#define __FLT16_MIN__
+# 0 "<built-in>"
+#define __FLT16_EPSILON__
+# 0 "<built-in>"
+#define __FLT16_DENORM_MIN__
+# 0 "<built-in>"
+#define __FLT16_HAS_DENORM__
+# 0 "<built-in>"
+#define __FLT16_HAS_INFINITY__
+# 0 "<built-in>"
+#define __FLT16_HAS_QUIET_NAN__
+# 0 "<built-in>"
+#define __FLT16_IS_IEC_60559__
+# 0 "<built-in>"
+#define __FLT32_MANT_DIG__
+# 0 "<built-in>"
+#define __FLT32_DIG__
+# 0 "<built-in>"
+#define __FLT32_MIN_EXP__
+# 0 "<built-in>"
+#define __FLT32_MIN_10_EXP__
+# 0 "<built-in>"
+#define __FLT32_MAX_EXP__
+# 0 "<built-in>"
+#define __FLT32_MAX_10_EXP__
+# 0 "<built-in>"
+#define __FLT32_DECIMAL_DIG__
+# 0 "<built-in>"
+#define __FLT32_MAX__
+# 0 "<built-in>"
+#define __FLT32_NORM_MAX__
+# 0 "<built-in>"
+#define __FLT32_MIN__
+# 0 "<built-in>"
+#define __FLT32_EPSILON__
+# 0 "<built-in>"
+#define __FLT32_DENORM_MIN__
+# 0 "<built-in>"
+#define __FLT32_HAS_DENORM__
+# 0 "<built-in>"
+#define __FLT32_HAS_INFINITY__
+# 0 "<built-in>"
+#define __FLT32_HAS_QUIET_NAN__
+# 0 "<built-in>"
+#define __FLT32_IS_IEC_60559__
+# 0 "<built-in>"
+#define __FLT64_MANT_DIG__
+# 0 "<built-in>"
+#define __FLT64_DIG__
+# 0 "<built-in>"
+#define __FLT64_MIN_EXP__
+# 0 "<built-in>"
+#define __FLT64_MIN_10_EXP__
+# 0 "<built-in>"
+#define __FLT64_MAX_EXP__
+# 0 "<built-in>"
+#define __FLT64_MAX_10_EXP__
+# 0 "<built-in>"
+#define __FLT64_DECIMAL_DIG__
+# 0 "<built-in>"
+#define __FLT64_MAX__
+# 0 "<built-in>"
+#define __FLT64_NORM_MAX__
+# 0 "<built-in>"
+#define __FLT64_MIN__
+# 0 "<built-in>"
+#define __FLT64_EPSILON__
+# 0 "<built-in>"
+#define __FLT64_DENORM_MIN__
+# 0 "<built-in>"
+#define __FLT64_HAS_DENORM__
+# 0 "<built-in>"
+#define __FLT64_HAS_INFINITY__
+# 0 "<built-in>"
+#define __FLT64_HAS_QUIET_NAN__
+# 0 "<built-in>"
+#define __FLT64_IS_IEC_60559__
+# 0 "<built-in>"
+#define __FLT128_MANT_DIG__
+# 0 "<built-in>"
+#define __FLT128_DIG__
+# 0 "<built-in>"
+#define __FLT128_MIN_EXP__
+# 0 "<built-in>"
+#define __FLT128_MIN_10_EXP__
+# 0 "<built-in>"
+#define __FLT128_MAX_EXP__
+# 0 "<built-in>"
+#define __FLT128_MAX_10_EXP__
+# 0 "<built-in>"
+#define __FLT128_DECIMAL_DIG__
+# 0 "<built-in>"
+#define __FLT128_MAX__
+# 0 "<built-in>"
+#define __FLT128_NORM_MAX__
+# 0 "<built-in>"
+#define __FLT128_MIN__
+# 0 "<built-in>"
+#define __FLT128_EPSILON__
+# 0 "<built-in>"
+#define __FLT128_DENORM_MIN__
+# 0 "<built-in>"
+#define __FLT128_HAS_DENORM__
+# 0 "<built-in>"
+#define __FLT128_HAS_INFINITY__
+# 0 "<built-in>"
+#define __FLT128_HAS_QUIET_NAN__
+# 0 "<built-in>"
+#define __FLT128_IS_IEC_60559__
+# 0 "<built-in>"
+#define __FLT32X_MANT_DIG__
+# 0 "<built-in>"
+#define __FLT32X_DIG__
+# 0 "<built-in>"
+#define __FLT32X_MIN_EXP__
+# 0 "<built-in>"
+#define __FLT32X_MIN_10_EXP__
+# 0 "<built-in>"
+#define __FLT32X_MAX_EXP__
+# 0 "<built-in>"
+#define __FLT32X_MAX_10_EXP__
+# 0 "<built-in>"
+#define __FLT32X_DECIMAL_DIG__
+# 0 "<built-in>"
+#define __FLT32X_MAX__
+# 0 "<built-in>"
+#define __FLT32X_NORM_MAX__
+# 0 "<built-in>"
+#define __FLT32X_MIN__
+# 0 "<built-in>"
+#define __FLT32X_EPSILON__
+# 0 "<built-in>"
+#define __FLT32X_DENORM_MIN__
+# 0 "<built-in>"
+#define __FLT32X_HAS_DENORM__
+# 0 "<built-in>"
+#define __FLT32X_HAS_INFINITY__
+# 0 "<built-in>"
+#define __FLT32X_HAS_QUIET_NAN__
+# 0 "<built-in>"
+#define __FLT32X_IS_IEC_60559__
+# 0 "<built-in>"
+#define __FLT64X_MANT_DIG__
+# 0 "<built-in>"
+#define __FLT64X_DIG__
+# 0 "<built-in>"
+#define __FLT64X_MIN_EXP__
+# 0 "<built-in>"
+#define __FLT64X_MIN_10_EXP__
+# 0 "<built-in>"
+#define __FLT64X_MAX_EXP__
+# 0 "<built-in>"
+#define __FLT64X_MAX_10_EXP__
+# 0 "<built-in>"
+#define __FLT64X_DECIMAL_DIG__
+# 0 "<built-in>"
+#define __FLT64X_MAX__
+# 0 "<built-in>"
+#define __FLT64X_NORM_MAX__
+# 0 "<built-in>"
+#define __FLT64X_MIN__
+# 0 "<built-in>"
+#define __FLT64X_EPSILON__
+# 0 "<built-in>"
+#define __FLT64X_DENORM_MIN__
+# 0 "<built-in>"
+#define __FLT64X_HAS_DENORM__
+# 0 "<built-in>"
+#define __FLT64X_HAS_INFINITY__
+# 0 "<built-in>"
+#define __FLT64X_HAS_QUIET_NAN__
+# 0 "<built-in>"
+#define __FLT64X_IS_IEC_60559__
+# 0 "<built-in>"
+#define __BFLT16_MANT_DIG__
+# 0 "<built-in>"
+#define __BFLT16_DIG__
+# 0 "<built-in>"
+#define __BFLT16_MIN_EXP__
+# 0 "<built-in>"
+#define __BFLT16_MIN_10_EXP__
+# 0 "<built-in>"
+#define __BFLT16_MAX_EXP__
+# 0 "<built-in>"
+#define __BFLT16_MAX_10_EXP__
+# 0 "<built-in>"
+#define __BFLT16_DECIMAL_DIG__
+# 0 "<built-in>"
+#define __BFLT16_MAX__
+# 0 "<built-in>"
+#define __BFLT16_NORM_MAX__
+# 0 "<built-in>"
+#define __BFLT16_MIN__
+# 0 "<built-in>"
+#define __BFLT16_EPSILON__
+# 0 "<built-in>"
+#define __BFLT16_DENORM_MIN__
+# 0 "<built-in>"
+#define __BFLT16_HAS_DENORM__
+# 0 "<built-in>"
+#define __BFLT16_HAS_INFINITY__
+# 0 "<built-in>"
+#define __BFLT16_HAS_QUIET_NAN__
+# 0 "<built-in>"
+#define __BFLT16_IS_IEC_60559__
+# 0 "<built-in>"
+#define __DEC32_MANT_DIG__
+# 0 "<built-in>"
+#define __DEC32_MIN_EXP__
+# 0 "<built-in>"
+#define __DEC32_MAX_EXP__
+# 0 "<built-in>"
+#define __DEC32_MIN__
+# 0 "<built-in>"
+#define __DEC32_MAX__
+# 0 "<built-in>"
+#define __DEC32_EPSILON__
+# 0 "<built-in>"
+#define __DEC32_SUBNORMAL_MIN__
+# 0 "<built-in>"
+#define __DEC64_MANT_DIG__
+# 0 "<built-in>"
+#define __DEC64_MIN_EXP__
+# 0 "<built-in>"
+#define __DEC64_MAX_EXP__
+# 0 "<built-in>"
+#define __DEC64_MIN__
+# 0 "<built-in>"
+#define __DEC64_MAX__
+# 0 "<built-in>"
+#define __DEC64_EPSILON__
+# 0 "<built-in>"
+#define __DEC64_SUBNORMAL_MIN__
+# 0 "<built-in>"
+#define __DEC128_MANT_DIG__
+# 0 "<built-in>"
+#define __DEC128_MIN_EXP__
+# 0 "<built-in>"
+#define __DEC128_MAX_EXP__
+# 0 "<built-in>"
+#define __DEC128_MIN__
+# 0 "<built-in>"
+#define __DEC128_MAX__
+# 0 "<built-in>"
+#define __DEC128_EPSILON__
+# 0 "<built-in>"
+#define __DEC128_SUBNORMAL_MIN__
+# 0 "<built-in>"
+#define __DEC64X_MANT_DIG__
+# 0 "<built-in>"
+#define __DEC64X_MIN_EXP__
+# 0 "<built-in>"
+#define __DEC64X_MAX_EXP__
+# 0 "<built-in>"
+#define __DEC64X_MIN__
+# 0 "<built-in>"
+#define __DEC64X_MAX__
+# 0 "<built-in>"
+#define __DEC64X_EPSILON__
+# 0 "<built-in>"
+#define __DEC64X_SUBNORMAL_MIN__
+# 0 "<built-in>"
+#define __REGISTER_PREFIX__
+# 0 "<built-in>"
+#define __USER_LABEL_PREFIX__
+# 0 "<built-in>"
+#define __GNUC_STDC_INLINE__
+# 0 "<built-in>"
+#define __GCC_HAVE_SYNC_COMPARE_AND_SWAP_1
+# 0 "<built-in>"
+#define __GCC_HAVE_SYNC_COMPARE_AND_SWAP_2
+# 0 "<built-in>"
+#define __GCC_HAVE_SYNC_COMPARE_AND_SWAP_4
+# 0 "<built-in>"
+#define __GCC_HAVE_SYNC_COMPARE_AND_SWAP_8
+# 0 "<built-in>"
+#define __GCC_ATOMIC_BOOL_LOCK_FREE
+# 0 "<built-in>"
+#define __GCC_ATOMIC_CHAR_LOCK_FREE
+# 0 "<built-in>"
+#define __GCC_ATOMIC_CHAR16_T_LOCK_FREE
+# 0 "<built-in>"
+#define __GCC_ATOMIC_CHAR32_T_LOCK_FREE
+# 0 "<built-in>"
+#define __GCC_ATOMIC_WCHAR_T_LOCK_FREE
+# 0 "<built-in>"
+#define __GCC_ATOMIC_SHORT_LOCK_FREE
+# 0 "<built-in>"
+#define __GCC_ATOMIC_INT_LOCK_FREE
+# 0 "<built-in>"
+#define __GCC_ATOMIC_LONG_LOCK_FREE
+# 0 "<built-in>"
+#define __GCC_ATOMIC_LLONG_LOCK_FREE
+# 0 "<built-in>"
+#define __GCC_ATOMIC_TEST_AND_SET_TRUEVAL
+# 0 "<built-in>"
+#define __GCC_DESTRUCTIVE_SIZE
+# 0 "<built-in>"
+#define __GCC_CONSTRUCTIVE_SIZE
+# 0 "<built-in>"
+#define __GCC_ATOMIC_POINTER_LOCK_FREE
+# 0 "<built-in>"
+#define __HAVE_SPECULATION_SAFE_VALUE
+# 0 "<built-in>"
+#define __GCC_HAVE_DWARF2_CFI_ASM
+# 0 "<built-in>"
+#define __PRAGMA_REDEFINE_EXTNAME
+# 0 "<built-in>"
+#define __SSP_STRONG__
+# 0 "<built-in>"
+#define __SIZEOF_INT128__
+# 0 "<built-in>"
+#define __SIZEOF_WCHAR_T__
+# 0 "<built-in>"
+#define __SIZEOF_WINT_T__
+# 0 "<built-in>"
+#define __SIZEOF_PTRDIFF_T__
+# 0 "<built-in>"
+#define __amd64
+# 0 "<built-in>"
+#define __amd64__
+# 0 "<built-in>"
+#define __x86_64
+# 0 "<built-in>"
+#define __x86_64__
+# 0 "<built-in>"
+#define __SIZEOF_FLOAT80__
+# 0 "<built-in>"
+#define __SIZEOF_FLOAT128__
+# 0 "<built-in>"
+#define __ATOMIC_HLE_ACQUIRE
+# 0 "<built-in>"
+#define __ATOMIC_HLE_RELEASE
+# 0 "<built-in>"
+#define __GCC_ASM_FLAG_OUTPUTS__
+# 0 "<built-in>"
+#define __k8
+# 0 "<built-in>"
+#define __k8__
+# 0 "<built-in>"
+#define __code_model_small__
+# 0 "<built-in>"
+#define __MMX__
+# 0 "<built-in>"
+#define __SSE__
+# 0 "<built-in>"
+#define __SSE2__
+# 0 "<built-in>"
+#define __FXSR__
+# 0 "<built-in>"
+#define __SSE_MATH__
+# 0 "<built-in>"
+#define __SSE2_MATH__
+# 0 "<built-in>"
+#define __MMX_WITH_SSE__
+# 0 "<built-in>"
+#define __SEG_FS
+# 0 "<built-in>"
+#define __SEG_GS
+# 0 "<built-in>"
+#define __gnu_linux__
+# 0 "<built-in>"
+#define __linux
+# 0 "<built-in>"
+#define __linux__
+# 0 "<built-in>"
+#define linux
+# 0 "<built-in>"
+#define __unix
+# 0 "<built-in>"
+#define __unix__
+# 0 "<built-in>"
+#define unix
+# 0 "<built-in>"
+#define __ELF__
+# 0 "<built-in>"
+#define __DECIMAL_BID_FORMAT__
+# 0 "<command-line>"
+#define _GNU_SOURCE
+# 0 "<command-line>"
+#define _GNU_SOURCE
+# 0 "<command-line>"
+#define LOCALEDIR
+# 0 "<command-line>"
+# 1 "/usr/include/stdc-predef.h" 1 3 4
+# 19 "/usr/include/stdc-predef.h" 3 4
+#define _STDC_PREDEF_H
+# 38 "/usr/include/stdc-predef.h" 3 4
+#define __STDC_IEC_559__
+#define __STDC_IEC_60559_BFP__
+# 48 "/usr/include/stdc-predef.h" 3 4
+#define __STDC_IEC_559_COMPLEX__
+#define __STDC_IEC_60559_COMPLEX__
+# 62 "/usr/include/stdc-predef.h" 3 4
+#define __STDC_ISO_10646__
+# 0 "<command-line>" 2
+# 1 "config.cc"
+# 1 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 1 3
+# 31 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+#define _GLIBCXX_CXX_CONFIG_H
+
+
+
+
+
+#pragma GCC diagnostic push
+#pragma GCC diagnostic ignored "-Wvariadic-macros"
+
+#pragma GCC diagnostic ignored "-Wc++11-extensions"
+#pragma GCC diagnostic ignored "-Wc++23-extensions"
+
+
+
+#define _GLIBCXX_RELEASE
+
+
+#undef __GLIBCXX__
+#define __GLIBCXX__
+# 58 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+#define _GLIBCXX_PURE
+
+
+
+#define _GLIBCXX_CONST
+
+
+
+#define _GLIBCXX_NORETURN
+# 79 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+#define _GLIBCXX_HAVE_ATTRIBUTE_VISIBILITY
+
+
+#define _GLIBCXX_VISIBILITY
+# 106 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+#define _GLIBCXX_USE_DEPRECATED
+
+
+
+#define _GLIBCXX_DEPRECATED
+#define _GLIBCXX_DEPRECATED_SUGGEST
+
+
+
+
+
+
+
+#define _GLIBCXX11_DEPRECATED
+#define _GLIBCXX11_DEPRECATED_SUGGEST
+
+
+
+
+
+
+#define _GLIBCXX14_DEPRECATED
+#define _GLIBCXX14_DEPRECATED_SUGGEST
+
+
+
+
+
+
+#define _GLIBCXX17_DEPRECATED
+#define _GLIBCXX17_DEPRECATED_SUGGEST
+# 146 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+#define _GLIBCXX20_DEPRECATED
+#define _GLIBCXX20_DEPRECATED_SUGGEST
+
+
+
+
+
+
+#define _GLIBCXX23_DEPRECATED
+#define _GLIBCXX23_DEPRECATED_SUGGEST
+
+
+
+
+
+
+#define _GLIBCXX26_DEPRECATED
+#define _GLIBCXX26_DEPRECATED_SUGGEST
+
+
+
+
+#define _GLIBCXX_ABI_TAG_CXX11
+
+
+
+
+#define _GLIBCXX_NODISCARD
+# 185 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+#define _GLIBCXX_CONSTEXPR
+#define _GLIBCXX_USE_CONSTEXPR
+# 195 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+#define _GLIBCXX14_CONSTEXPR
+
+
+
+
+
+
+
+#define _GLIBCXX17_CONSTEXPR
+# 213 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+#define _GLIBCXX20_CONSTEXPR
+
+
+
+
+
+
+
+#define _GLIBCXX23_CONSTEXPR
+
+
+
+
+
+
+
+#define _GLIBCXX26_CONSTEXPR
+
+
+
+
+
+#define _GLIBCXX17_INLINE
+# 244 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+#define _GLIBCXX_NOEXCEPT
+#define _GLIBCXX_NOEXCEPT_IF
+#define _GLIBCXX_USE_NOEXCEPT
+#define _GLIBCXX_THROW
+# 257 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+#define _GLIBCXX_NOTHROW
+
+
+
+
+#define _GLIBCXX_THROW_OR_ABORT
+
+
+
+
+
+
+#define _GLIBCXX_NOEXCEPT_PARM
+#define _GLIBCXX_NOEXCEPT_QUAL
+# 286 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+#define _GLIBCXX_EXTERN_TEMPLATE
+# 336 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+namespace std
+{
+  typedef long unsigned int size_t;
+  typedef long int ptrdiff_t;
+
+
+  typedef decltype(nullptr) nullptr_t;
+
+
+#pragma GCC visibility push(default)
+
+
+  extern "C++" __attribute__ ((__noreturn__, __always_inline__))
+  inline void __terminate() noexcept
+  {
+    void terminate() noexcept __attribute__ ((__noreturn__,__cold__));
+    terminate();
+  }
+#pragma GCC visibility pop
+}
+
+#define _GLIBCXX_USE_DUAL_ABI
+
+
+
+
+
+
+
+#define _GLIBCXX_USE_CXX11_ABI
+
+
+
+namespace std
+{
+  inline namespace __cxx11 __attribute__((__abi_tag__ ("cxx11"))) { }
+}
+namespace __gnu_cxx
+{
+  inline namespace __cxx11 __attribute__((__abi_tag__ ("cxx11"))) { }
+}
+#define _GLIBCXX_NAMESPACE_CXX11
+#define _GLIBCXX_BEGIN_NAMESPACE_CXX11
+#define _GLIBCXX_END_NAMESPACE_CXX11
+#define _GLIBCXX_DEFAULT_ABI_TAG
+# 389 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+#define _GLIBCXX_INLINE_VERSION
+# 423 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+#define _GLIBCXX_BEGIN_NAMESPACE_VERSION
+#define _GLIBCXX_END_NAMESPACE_VERSION
+
+#define _GLIBCXX_BEGIN_INLINE_ABI_NAMESPACE
+#define _GLIBCXX_END_INLINE_ABI_NAMESPACE
+# 492 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+#define _GLIBCXX_STD_C
+#define _GLIBCXX_BEGIN_NAMESPACE_CONTAINER
+#define _GLIBCXX_END_NAMESPACE_CONTAINER
+# 503 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+#define _GLIBCXX_STD_A
+#define _GLIBCXX_BEGIN_NAMESPACE_ALGO
+#define _GLIBCXX_END_NAMESPACE_ALGO
+
+
+
+
+#undef _GLIBCXX_LONG_DOUBLE_COMPAT
+# 520 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+#undef _GLIBCXX_CLANG
+
+
+
+
+
+#undef _GLIBCXX_LONG_DOUBLE_ALT128_COMPAT
+# 556 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+#define _GLIBCXX_NAMESPACE_LDBL
+#define _GLIBCXX_BEGIN_NAMESPACE_LDBL
+#define _GLIBCXX_END_NAMESPACE_LDBL
+
+
+
+#define _GLIBCXX_NAMESPACE_LDBL_OR_CXX11
+#define _GLIBCXX_BEGIN_NAMESPACE_LDBL_OR_CXX11
+#define _GLIBCXX_END_NAMESPACE_LDBL_OR_CXX11
+# 573 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+namespace std
+{
+#pragma GCC visibility push(default)
+
+
+
+
+  __attribute__((__always_inline__))
+  constexpr inline bool
+  __is_constant_evaluated() noexcept
+  {
+
+
+
+
+#define _GLIBCXX_HAVE_IS_CONSTANT_EVALUATED
+    return __builtin_is_constant_evaluated();
+
+
+
+  }
+#pragma GCC visibility pop
+}
+# 613 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+#define _GLIBCXX_VERBOSE_ASSERT
+
+
+
+namespace std
+{
+#pragma GCC visibility push(default)
+
+  extern "C++" __attribute__ ((__noreturn__)) __attribute__((__cold__))
+  void
+  __glibcxx_assert_fail
+    (const char* __file, int __line, const char* __function,
+     const char* __condition)
+  noexcept;
+#pragma GCC visibility pop
+}
+#define _GLIBCXX_ASSERT_FAIL
+# 648 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+namespace std
+{
+  __attribute__((__always_inline__,__visibility__("default")))
+  inline void
+  __glibcxx_assert_fail()
+  { }
+}
+#define __glibcxx_assert
+# 697 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+#define _GLIBCXX_SYNCHRONIZATION_HAPPENS_BEFORE
+
+
+#define _GLIBCXX_SYNCHRONIZATION_HAPPENS_AFTER
+
+
+
+#define _GLIBCXX_BEGIN_EXTERN_C
+#define _GLIBCXX_END_EXTERN_C
+
+#define _GLIBCXX_USE_ALLOCATOR_NEW
+# 727 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+# 1 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/os_defines.h" 1 3
+# 31 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/os_defines.h" 3
+#define _GLIBCXX_OS_DEFINES
+
+
+
+
+
+#define __NO_CTYPE
+
+# 1 "/usr/include/features.h" 1 3 4
+# 19 "/usr/include/features.h" 3 4
+#define _FEATURES_H
+# 129 "/usr/include/features.h" 3 4
+#undef __USE_ISOC11
+#undef __USE_ISOC99
+#undef __USE_ISOC95
+#undef __USE_ISOCXX11
+#undef __USE_POSIX
+#undef __USE_POSIX2
+#undef __USE_POSIX199309
+#undef __USE_POSIX199506
+#undef __USE_XOPEN
+#undef __USE_XOPEN_EXTENDED
+#undef __USE_UNIX98
+#undef __USE_XOPEN2K
+#undef __USE_XOPEN2KXSI
+#undef __USE_XOPEN2K8
+#undef __USE_XOPEN2K8XSI
+#undef __USE_LARGEFILE
+#undef __USE_LARGEFILE64
+#undef __USE_FILE_OFFSET64
+#undef __USE_MISC
+#undef __USE_ATFILE
+#undef __USE_DYNAMIC_STACK_SIZE
+#undef __USE_GNU
+#undef __USE_FORTIFY_LEVEL
+#undef __KERNEL_STRICT_NAMES
+#undef __GLIBC_USE_ISOC23
+#undef __GLIBC_USE_ISOC2Y
+#undef __GLIBC_USE_DEPRECATED_GETS
+#undef __GLIBC_USE_DEPRECATED_SCANF
+#undef __GLIBC_USE_C23_STRTOL
+
+
+
+
+#define __KERNEL_STRICT_NAMES
+# 173 "/usr/include/features.h" 3 4
+#define __GNUC_PREREQ
+# 187 "/usr/include/features.h" 3 4
+#define __glibc_clang_prereq
+
+
+
+#define __GLIBC_USE
+# 213 "/usr/include/features.h" 3 4
+#undef _ISOC95_SOURCE
+#define _ISOC95_SOURCE
+#undef _ISOC99_SOURCE
+#define _ISOC99_SOURCE
+#undef _ISOC11_SOURCE
+#define _ISOC11_SOURCE
+#undef _ISOC23_SOURCE
+#define _ISOC23_SOURCE
+#undef _ISOC2Y_SOURCE
+#define _ISOC2Y_SOURCE
+#undef _POSIX_SOURCE
+#define _POSIX_SOURCE
+#undef _POSIX_C_SOURCE
+#define _POSIX_C_SOURCE
+#undef _XOPEN_SOURCE
+#define _XOPEN_SOURCE
+#undef _XOPEN_SOURCE_EXTENDED
+#define _XOPEN_SOURCE_EXTENDED
+#undef _LARGEFILE64_SOURCE
+#define _LARGEFILE64_SOURCE
+#undef _DEFAULT_SOURCE
+#define _DEFAULT_SOURCE
+#undef _ATFILE_SOURCE
+#define _ATFILE_SOURCE
+#undef _DYNAMIC_STACK_SIZE_SOURCE
+#define _DYNAMIC_STACK_SIZE_SOURCE
+# 249 "/usr/include/features.h" 3 4
+#undef _DEFAULT_SOURCE
+#define _DEFAULT_SOURCE
+
+
+
+
+
+#define __GLIBC_USE_ISOC2Y
+
+
+
+
+
+
+
+#define __GLIBC_USE_ISOC23
+# 273 "/usr/include/features.h" 3 4
+#define __USE_ISOC11
+
+
+
+
+
+
+#define __USE_ISOC99
+
+
+
+
+
+
+#define __USE_ISOC95
+
+
+
+
+
+#define __USE_ISOC11
+
+
+
+
+#define __USE_ISOCXX11
+#define __USE_ISOC99
+# 310 "/usr/include/features.h" 3 4
+#undef _POSIX_SOURCE
+#define _POSIX_SOURCE
+#undef _POSIX_C_SOURCE
+#define _POSIX_C_SOURCE
+# 348 "/usr/include/features.h" 3 4
+#define __USE_POSIX
+
+
+
+#define __USE_POSIX2
+
+
+
+#define __USE_POSIX199309
+
+
+
+#define __USE_POSIX199506
+
+
+
+#define __USE_XOPEN2K
+#undef __USE_ISOC95
+#define __USE_ISOC95
+#undef __USE_ISOC99
+#define __USE_ISOC99
+
+
+
+#define __USE_XOPEN2K8
+#undef _ATFILE_SOURCE
+#define _ATFILE_SOURCE
+
+
+
+#define __USE_XOPEN
+
+#define __USE_XOPEN_EXTENDED
+#define __USE_UNIX98
+#undef _LARGEFILE_SOURCE
+#define _LARGEFILE_SOURCE
+
+
+#define __USE_XOPEN2K8
+#define __USE_XOPEN2K8XSI
+
+#define __USE_XOPEN2K
+#define __USE_XOPEN2KXSI
+#undef __USE_ISOC95
+#define __USE_ISOC95
+#undef __USE_ISOC99
+#define __USE_ISOC99
+# 404 "/usr/include/features.h" 3 4
+#define __USE_LARGEFILE
+
+
+
+#define __USE_LARGEFILE64
+
+
+
+
+
+
+# 1 "/usr/include/features-time64.h" 1 3 4
+# 20 "/usr/include/features-time64.h" 3 4
+# 1 "/usr/include/bits/wordsize.h" 1 3 4
+
+
+
+#define __WORDSIZE
+
+
+
+
+
+
+#define __WORDSIZE_TIME64_COMPAT32
+
+
+
+#define __SYSCALL_WORDSIZE
+# 21 "/usr/include/features-time64.h" 2 3 4
+# 1 "/usr/include/bits/timesize.h" 1 3 4
+# 19 "/usr/include/bits/timesize.h" 3 4
+# 1 "/usr/include/bits/wordsize.h" 1 3 4
+
+
+
+#define __WORDSIZE
+
+
+
+
+
+
+#define __WORDSIZE_TIME64_COMPAT32
+
+
+
+#define __SYSCALL_WORDSIZE
+# 20 "/usr/include/bits/timesize.h" 2 3 4
+
+
+
+
+
+
+#define __TIMESIZE
+# 22 "/usr/include/features-time64.h" 2 3 4
+# 37 "/usr/include/features-time64.h" 3 4
+#define __USE_TIME_BITS64
+# 416 "/usr/include/features.h" 2 3 4
+
+
+#define __USE_MISC
+
+
+
+#define __USE_ATFILE
+
+
+
+#define __USE_DYNAMIC_STACK_SIZE
+
+
+
+#define __USE_GNU
+# 455 "/usr/include/features.h" 3 4
+#define __USE_FORTIFY_LEVEL
+
+
+
+
+
+
+
+#define __GLIBC_USE_DEPRECATED_GETS
+# 486 "/usr/include/features.h" 3 4
+#define __GLIBC_USE_DEPRECATED_SCANF
+# 495 "/usr/include/features.h" 3 4
+#define __GLIBC_USE_C23_STRTOL
+# 510 "/usr/include/features.h" 3 4
+#undef __GNU_LIBRARY__
+#define __GNU_LIBRARY__
+
+
+
+#define __GLIBC__
+#define __GLIBC_MINOR__
+
+#define __GLIBC_PREREQ
+
+
+
+
+
+# 1 "/usr/include/sys/cdefs.h" 1 3 4
+# 20 "/usr/include/sys/cdefs.h" 3 4
+#define _SYS_CDEFS_H
+# 35 "/usr/include/sys/cdefs.h" 3 4
+#undef __P
+#undef __PMT
+# 45 "/usr/include/sys/cdefs.h" 3 4
+#define __glibc_has_attribute
+
+
+
+
+#define __glibc_has_builtin
+
+
+
+
+#define __glibc_has_extension
+# 65 "/usr/include/sys/cdefs.h" 3 4
+#define __LEAF
+#define __LEAF_ATTR
+# 86 "/usr/include/sys/cdefs.h" 3 4
+#define __THROW
+
+
+
+#define __THROWNL
+#define __NTH
+#define __NTHNL
+# 102 "/usr/include/sys/cdefs.h" 3 4
+#define __COLD
+# 125 "/usr/include/sys/cdefs.h" 3 4
+#define __P
+#define __PMT
+
+
+
+
+#define __CONCAT
+#define __STRING
+
+
+#define __ptr_t
+
+
+
+
+#define __BEGIN_DECLS
+#define __END_DECLS
+# 153 "/usr/include/sys/cdefs.h" 3 4
+#define __attribute_overloadable__
+
+
+
+#define __bos
+#define __bos0
+
+
+
+
+
+
+
+#define __glibc_objsize0
+#define __glibc_objsize
+# 366 "/usr/include/sys/cdefs.h" 3 4
+#define __warnattr
+#define __errordecl
+# 384 "/usr/include/sys/cdefs.h" 3 4
+#define __flexarr
+#define __glibc_c99_flexarr_available
+# 410 "/usr/include/sys/cdefs.h" 3 4
+#define __REDIRECT
+
+#define __REDIRECT_NTH
+
+#define __REDIRECT_NTHNL
+
+
+
+
+
+
+
+#define __ASMNAME
+#define __ASMNAME2
+
+
+#define __REDIRECT_FORTIFY
+
+
+
+#define __REDIRECT_FORTIFY_NTH
+# 452 "/usr/include/sys/cdefs.h" 3 4
+#define __attribute_malloc__
+
+
+
+
+
+
+
+#define __attribute_alloc_size__
+# 469 "/usr/include/sys/cdefs.h" 3 4
+#define __attribute_alloc_align__
+# 479 "/usr/include/sys/cdefs.h" 3 4
+#define __attribute_pure__
+
+
+
+
+
+
+#define __attribute_const__
+
+
+
+
+
+#define __attribute_maybe_unused__
+# 501 "/usr/include/sys/cdefs.h" 3 4
+#define __attribute_used__
+#define __attribute_noinline__
+
+
+
+
+
+
+
+#define __attribute_deprecated__
+# 520 "/usr/include/sys/cdefs.h" 3 4
+#define __attribute_deprecated_msg__
+# 533 "/usr/include/sys/cdefs.h" 3 4
+#define __attribute_format_arg__
+# 543 "/usr/include/sys/cdefs.h" 3 4
+#define __attribute_format_strfmon__
+# 555 "/usr/include/sys/cdefs.h" 3 4
+#define __attribute_nonnull__
+
+
+
+
+
+#define __nonnull
+
+
+
+
+
+
+#define __returns_nonnull
+# 577 "/usr/include/sys/cdefs.h" 3 4
+#define __attribute_warn_unused_result__
+# 586 "/usr/include/sys/cdefs.h" 3 4
+#define __wur
+
+
+
+
+
+
+
+#undef __always_inline
+#define __always_inline
+# 604 "/usr/include/sys/cdefs.h" 3 4
+#define __attribute_artificial__
+# 622 "/usr/include/sys/cdefs.h" 3 4
+#define __extern_inline
+#define __extern_always_inline
+# 632 "/usr/include/sys/cdefs.h" 3 4
+#define __fortify_function
+
+
+
+
+
+#define __va_arg_pack
+#define __va_arg_pack_len
+# 669 "/usr/include/sys/cdefs.h" 3 4
+#define __restrict_arr
+# 681 "/usr/include/sys/cdefs.h" 3 4
+#define __glibc_unlikely
+#define __glibc_likely
+# 703 "/usr/include/sys/cdefs.h" 3 4
+#define __attribute_nonstring__
+
+
+
+
+
+#undef __attribute_copy__
+
+
+
+#define __attribute_copy__
+# 730 "/usr/include/sys/cdefs.h" 3 4
+# 1 "/usr/include/bits/wordsize.h" 1 3 4
+
+
+
+#define __WORDSIZE
+
+
+
+
+
+
+#define __WORDSIZE_TIME64_COMPAT32
+
+
+
+#define __SYSCALL_WORDSIZE
+# 731 "/usr/include/sys/cdefs.h" 2 3 4
+# 1 "/usr/include/bits/long-double.h" 1 3 4
+# 21 "/usr/include/bits/long-double.h" 3 4
+#define __LDOUBLE_REDIRECTS_TO_FLOAT128_ABI
+# 732 "/usr/include/sys/cdefs.h" 2 3 4
+# 788 "/usr/include/sys/cdefs.h" 3 4
+#define __LDBL_REDIR1
+#define __LDBL_REDIR
+#define __LDBL_REDIR1_NTH
+#define __LDBL_REDIR_NTH
+#define __LDBL_REDIR2_DECL
+#define __LDBL_REDIR_DECL
+
+#define __REDIRECT_LDBL
+#define __REDIRECT_NTH_LDBL
+# 807 "/usr/include/sys/cdefs.h" 3 4
+#define __glibc_macro_warning1
+#define __glibc_macro_warning
+# 828 "/usr/include/sys/cdefs.h" 3 4
+#define __HAVE_GENERIC_SELECTION
+# 837 "/usr/include/sys/cdefs.h" 3 4
+#define __attr_access
+
+
+
+
+
+
+
+#define __fortified_attr_access
+
+
+#define __attr_access_none
+# 861 "/usr/include/sys/cdefs.h" 3 4
+#define __attr_dealloc
+
+#define __attr_dealloc_free
+# 872 "/usr/include/sys/cdefs.h" 3 4
+#define __attribute_returns_twice__
+# 881 "/usr/include/sys/cdefs.h" 3 4
+#define __attribute_struct_may_alias__
+# 525 "/usr/include/features.h" 2 3 4
+# 540 "/usr/include/features.h" 3 4
+#define __USE_EXTERN_INLINES
+
+
+
+
+
+
+
+# 1 "/usr/include/gnu/stubs.h" 1 3 4
+# 10 "/usr/include/gnu/stubs.h" 3 4
+# 1 "/usr/include/gnu/stubs-64.h" 1 3 4
+# 10 "/usr/include/gnu/stubs-64.h" 3 4
+#define __stub___compat_bdflush
+#define __stub_chflags
+#define __stub_fchflags
+#define __stub_gtty
+#define __stub_revoke
+#define __stub_setlogin
+#define __stub_sigreturn
+#define __stub_stty
+# 11 "/usr/include/gnu/stubs.h" 2 3 4
+# 549 "/usr/include/features.h" 2 3 4
+# 40 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/os_defines.h" 2 3
+
+
+
+
+
+#undef _GLIBCXX_HAVE_GETS
+
+
+
+
+#define _GLIBCXX_NO_OBSOLETE_ISINF_ISNAN_DYNAMIC
+# 60 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/os_defines.h" 3
+#define _GLIBCXX_HAVE_FLOAT128_MATH
+
+
+
+
+
+#define _GLIBCXX_MAY_HAVE___CXA_THREAD_ATEXIT_IMPL
+
+
+
+
+
+
+#define _GLIBCXX_NATIVE_THREAD_ID
+# 86 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/os_defines.h" 3
+#define _GLIBCXX_GTHREAD_USE_WEAK
+# 728 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 2 3
+
+
+# 1 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h" 1 3
+# 31 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h" 3
+#define _GLIBCXX_CPU_DEFINES
+# 731 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 2 3
+
+
+
+
+#define _GLIBCXX_PSEUDO_VISIBILITY
+
+
+
+
+
+
+#define _GLIBCXX_WEAK_DEFINITION
+
+
+
+
+
+
+
+#define _GLIBCXX_USE_WEAK_REF
+# 763 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+#define _GLIBCXX_TXN_SAFE
+#define _GLIBCXX_TXN_SAFE_DYN
+
+
+
+
+#define _GLIBCXX_USE_STD_SPEC_FUNCS
+# 782 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+#define _GLIBCXX_FAST_MATH
+
+
+
+
+
+
+#define __N
+
+
+#undef min
+#undef max
+
+
+
+
+
+#define _GLIBCXX_USE_C99_MATH
+
+
+#define _GLIBCXX_USE_C99_COMPLEX
+
+
+#define _GLIBCXX_USE_C99_STDIO
+
+
+#define _GLIBCXX_USE_C99_STDLIB
+
+
+#define _GLIBCXX_USE_C99_WCHAR
+# 846 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+#define _GLIBCXX_USE_FLOAT128
+
+
+
+
+
+
+
+#define _GLIBCXX_FLOAT_IS_IEEE_BINARY32
+
+
+
+
+
+
+#define _GLIBCXX_DOUBLE_IS_IEEE_BINARY64
+# 887 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+namespace __gnu_cxx
+{
+  typedef __decltype(0.0bf16) __bfloat16_t;
+}
+
+
+
+
+
+
+
+#define _GLIBCXX_HAS_BUILTIN
+
+
+
+
+#define _GLIBCXX_HAVE_BUILTIN_HAS_UNIQ_OBJ_REP
+
+
+
+#define _GLIBCXX_HAVE_BUILTIN_IS_AGGREGATE
+
+
+
+#define _GLIBCXX_HAVE_BUILTIN_LAUNDER
+
+
+
+
+
+
+
+#define _GLIBCXX_USE_BUILTIN_TRAIT
+
+
+
+
+
+#define _GLIBCXX_DOXYGEN_ONLY
+# 937 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+#define _GLIBCXX_USE_TBB_PAR_BACKEND
+
+
+
+#define _PSTL_PAR_BACKEND_TBB
+
+
+
+
+#define _PSTL_ASSERT
+#define _PSTL_ASSERT_MSG
+
+# 1 "/usr/include/c++/15.1.1/pstl/pstl_config.h" 1 3
+# 11 "/usr/include/c++/15.1.1/pstl/pstl_config.h" 3
+#define _PSTL_CONFIG_H
+
+
+#define _PSTL_VERSION
+#define _PSTL_VERSION_MAJOR
+#define _PSTL_VERSION_MINOR
+#define _PSTL_VERSION_PATCH
+# 29 "/usr/include/c++/15.1.1/pstl/pstl_config.h" 3
+#define _PSTL_USAGE_WARNINGS
+
+
+
+
+
+
+#define _PSTL_PRAGMA
+
+
+#define _PSTL_STRING_AUX
+#define _PSTL_STRING
+#define _PSTL_STRING_CONCAT
+
+
+
+
+
+
+#define _PSTL_HIDE_FROM_ABI_PUSH
+#define _PSTL_HIDE_FROM_ABI_POP
+
+
+
+
+#define _PSTL_GCC_VERSION
+# 66 "/usr/include/c++/15.1.1/pstl/pstl_config.h" 3
+#define _PSTL_PRAGMA_SIMD
+#define _PSTL_PRAGMA_DECLARE_SIMD
+#define _PSTL_PRAGMA_SIMD_REDUCTION
+# 82 "/usr/include/c++/15.1.1/pstl/pstl_config.h" 3
+#define _PSTL_PRAGMA_FORCEINLINE
+
+
+
+
+#define _PSTL_PRAGMA_SIMD_SCAN
+#define _PSTL_PRAGMA_SIMD_INCLUSIVE_SCAN
+#define _PSTL_PRAGMA_SIMD_EXCLUSIVE_SCAN
+
+
+
+
+
+
+
+#define _PSTL_CPP17_EXECUTION_POLICIES_PRESENT
+
+
+
+
+
+#define _PSTL_CPP14_2RANGE_MISMATCH_EQUAL_PRESENT
+
+
+
+
+#define _PSTL_CPP14_MAKE_REVERSE_ITERATOR_PRESENT
+
+
+#define _PSTL_CPP14_INTEGER_SEQUENCE_PRESENT
+
+
+
+
+#define _PSTL_CPP14_VARIABLE_TEMPLATES_PRESENT
+# 127 "/usr/include/c++/15.1.1/pstl/pstl_config.h" 3
+#define _PSTL_UDR_PRESENT
+
+
+
+
+#define _PSTL_UDS_PRESENT
+
+
+
+
+
+#define _PSTL_PRAGMA_SIMD_EARLYEXIT
+
+
+
+
+
+
+#define _PSTL_PRAGMA_SIMD_ORDERED_MONOTONIC
+#define _PSTL_PRAGMA_SIMD_ORDERED_MONOTONIC_2ARGS
+# 156 "/usr/include/c++/15.1.1/pstl/pstl_config.h" 3
+#define _PSTL_PRAGMA_DECLARE_REDUCTION
+
+
+
+
+
+#define _PSTL_PRAGMA_VECTOR_UNALIGNED
+
+
+
+
+
+
+#define _PSTL_USE_NONTEMPORAL_STORES_IF_ALLOWED
+
+
+
+
+
+#define _PSTL_PRAGMA_LOCATION
+
+
+#define _PSTL_PRAGMA_MESSAGE_IMPL
+
+
+
+
+
+#define _PSTL_PRAGMA_MESSAGE
+#define _PSTL_PRAGMA_MESSAGE_POLICIES
+# 950 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 2 3
+
+
+
+#pragma GCC diagnostic pop
+
+
+
+
+
+
+#define _GLIBCXX_HAVE_ACOSF
+
+
+#define _GLIBCXX_HAVE_ACOSL
+
+
+#define _GLIBCXX_HAVE_ALIGNED_ALLOC
+
+
+#define _GLIBCXX_HAVE_ARC4RANDOM
+
+
+#define _GLIBCXX_HAVE_ARPA_INET_H
+
+
+#define _GLIBCXX_HAVE_ASINF
+
+
+#define _GLIBCXX_HAVE_ASINL
+
+
+#define _GLIBCXX_HAVE_AS_SYMVER_DIRECTIVE
+
+
+#define _GLIBCXX_HAVE_ATAN2F
+
+
+#define _GLIBCXX_HAVE_ATAN2L
+
+
+#define _GLIBCXX_HAVE_ATANF
+
+
+#define _GLIBCXX_HAVE_ATANL
+
+
+#define _GLIBCXX_HAVE_ATOMIC_LOCK_POLICY
+
+
+#define _GLIBCXX_HAVE_AT_QUICK_EXIT
+
+
+
+#define _GLIBCXX_HAVE_C99_FLT_EVAL_TYPES
+
+
+
+
+
+#define _GLIBCXX_HAVE_CEILF
+
+
+#define _GLIBCXX_HAVE_CEILL
+
+
+#define _GLIBCXX_HAVE_COMPLEX_H
+
+
+#define _GLIBCXX_HAVE_COSF
+
+
+#define _GLIBCXX_HAVE_COSHF
+
+
+#define _GLIBCXX_HAVE_COSHL
+
+
+#define _GLIBCXX_HAVE_COSL
+
+
+
+#define _GLIBCXX_HAVE_DECL_STRNLEN
+
+
+#define _GLIBCXX_HAVE_DIRENT_H
+
+
+#define _GLIBCXX_HAVE_DIRFD
+
+
+#define _GLIBCXX_HAVE_DLFCN_H
+
+
+#define _GLIBCXX_HAVE_ENDIAN_H
+
+
+#define _GLIBCXX_HAVE_EXCEPTION_PTR_SINCE_GCC46
+
+
+#define _GLIBCXX_HAVE_EXECINFO_H
+
+
+#define _GLIBCXX_HAVE_EXPF
+
+
+#define _GLIBCXX_HAVE_EXPL
+
+
+#define _GLIBCXX_HAVE_FABSF
+
+
+#define _GLIBCXX_HAVE_FABSL
+
+
+#define _GLIBCXX_HAVE_FCNTL_H
+
+
+#define _GLIBCXX_HAVE_FDOPENDIR
+
+
+#define _GLIBCXX_HAVE_FENV_H
+
+
+#define _GLIBCXX_HAVE_FINITE
+
+
+#define _GLIBCXX_HAVE_FINITEF
+
+
+#define _GLIBCXX_HAVE_FINITEL
+
+
+#define _GLIBCXX_HAVE_FLOAT_H
+
+
+#define _GLIBCXX_HAVE_FLOORF
+
+
+#define _GLIBCXX_HAVE_FLOORL
+
+
+#define _GLIBCXX_HAVE_FMODF
+
+
+#define _GLIBCXX_HAVE_FMODL
+# 1103 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+#define _GLIBCXX_HAVE_FREXPF
+
+
+#define _GLIBCXX_HAVE_FREXPL
+
+
+#define _GLIBCXX_HAVE_GETENTROPY
+
+
+#define _GLIBCXX_HAVE_GETIPINFO
+
+
+#define _GLIBCXX_HAVE_GETS
+
+
+#define _GLIBCXX_HAVE_HYPOT
+
+
+#define _GLIBCXX_HAVE_HYPOTF
+
+
+#define _GLIBCXX_HAVE_HYPOTL
+
+
+#define _GLIBCXX_HAVE_ICONV
+
+
+
+
+
+#define _GLIBCXX_HAVE_INTTYPES_H
+
+
+
+
+
+#define _GLIBCXX_HAVE_ISINFF
+
+
+#define _GLIBCXX_HAVE_ISINFL
+
+
+
+
+
+#define _GLIBCXX_HAVE_ISNANF
+
+
+#define _GLIBCXX_HAVE_ISNANL
+
+
+#define _GLIBCXX_HAVE_ISWBLANK
+
+
+#define _GLIBCXX_HAVE_LC_MESSAGES
+
+
+#define _GLIBCXX_HAVE_LDEXPF
+
+
+#define _GLIBCXX_HAVE_LDEXPL
+
+
+#define _GLIBCXX_HAVE_LIBINTL_H
+
+
+#define _GLIBCXX_HAVE_LIMIT_AS
+
+
+#define _GLIBCXX_HAVE_LIMIT_DATA
+
+
+#define _GLIBCXX_HAVE_LIMIT_FSIZE
+
+
+#define _GLIBCXX_HAVE_LIMIT_RSS
+
+
+#define _GLIBCXX_HAVE_LIMIT_VMEM
+
+
+#define _GLIBCXX_HAVE_LINK
+
+
+#define _GLIBCXX_HAVE_LINK_H
+
+
+#define _GLIBCXX_HAVE_LINUX_FUTEX
+
+
+#define _GLIBCXX_HAVE_LINUX_RANDOM_H
+
+
+#define _GLIBCXX_HAVE_LINUX_TYPES_H
+
+
+#define _GLIBCXX_HAVE_LOCALE_H
+
+
+#define _GLIBCXX_HAVE_LOG10F
+
+
+#define _GLIBCXX_HAVE_LOG10L
+
+
+#define _GLIBCXX_HAVE_LOGF
+
+
+#define _GLIBCXX_HAVE_LOGL
+
+
+#define _GLIBCXX_HAVE_LSEEK
+# 1223 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+#define _GLIBCXX_HAVE_MBSTATE_T
+
+
+#define _GLIBCXX_HAVE_MEMALIGN
+
+
+#define _GLIBCXX_HAVE_MEMORY_H
+
+
+#define _GLIBCXX_HAVE_MODF
+
+
+#define _GLIBCXX_HAVE_MODFF
+
+
+#define _GLIBCXX_HAVE_MODFL
+
+
+
+
+
+#define _GLIBCXX_HAVE_NETDB_H
+
+
+#define _GLIBCXX_HAVE_NETINET_IN_H
+
+
+#define _GLIBCXX_HAVE_NETINET_TCP_H
+# 1259 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+#define _GLIBCXX_HAVE_OPENAT
+
+
+#define _GLIBCXX_HAVE_O_NONBLOCK
+
+
+#define _GLIBCXX_HAVE_POLL
+
+
+#define _GLIBCXX_HAVE_POLL_H
+
+
+#define _GLIBCXX_HAVE_POSIX_MEMALIGN
+
+
+
+#define _GLIBCXX_HAVE_POSIX_SEMAPHORE
+
+
+#define _GLIBCXX_HAVE_POWF
+
+
+#define _GLIBCXX_HAVE_POWL
+
+
+
+
+
+#define _GLIBCXX_HAVE_QUICK_EXIT
+
+
+#define _GLIBCXX_HAVE_READLINK
+
+
+#define _GLIBCXX_HAVE_SECURE_GETENV
+
+
+#define _GLIBCXX_HAVE_SETENV
+
+
+#define _GLIBCXX_HAVE_SINCOS
+
+
+#define _GLIBCXX_HAVE_SINCOSF
+
+
+#define _GLIBCXX_HAVE_SINCOSL
+
+
+#define _GLIBCXX_HAVE_SINF
+
+
+#define _GLIBCXX_HAVE_SINHF
+
+
+#define _GLIBCXX_HAVE_SINHL
+
+
+#define _GLIBCXX_HAVE_SINL
+
+
+
+
+
+#define _GLIBCXX_HAVE_SOCKATMARK
+
+
+#define _GLIBCXX_HAVE_SQRTF
+
+
+#define _GLIBCXX_HAVE_SQRTL
+
+
+#define _GLIBCXX_HAVE_STACKTRACE
+
+
+#define _GLIBCXX_HAVE_STDALIGN_H
+
+
+#define _GLIBCXX_HAVE_STDBOOL_H
+
+
+#define _GLIBCXX_HAVE_STDINT_H
+
+
+#define _GLIBCXX_HAVE_STDLIB_H
+
+
+#define _GLIBCXX_HAVE_STRERROR_L
+
+
+#define _GLIBCXX_HAVE_STRERROR_R
+
+
+#define _GLIBCXX_HAVE_STRINGS_H
+
+
+#define _GLIBCXX_HAVE_STRING_H
+
+
+#define _GLIBCXX_HAVE_STRTOF
+
+
+#define _GLIBCXX_HAVE_STRTOLD
+
+
+#define _GLIBCXX_HAVE_STRUCT_DIRENT_D_TYPE
+
+
+#define _GLIBCXX_HAVE_STRXFRM_L
+
+
+#define _GLIBCXX_HAVE_SYMLINK
+
+
+
+#define _GLIBCXX_HAVE_SYMVER_SYMBOL_RENAMING_RUNTIME_SUPPORT
+
+
+
+
+
+#define _GLIBCXX_HAVE_SYS_IOCTL_H
+
+
+#define _GLIBCXX_HAVE_SYS_IPC_H
+# 1393 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+#define _GLIBCXX_HAVE_SYS_MMAN_H
+
+
+#define _GLIBCXX_HAVE_SYS_PARAM_H
+
+
+#define _GLIBCXX_HAVE_SYS_RESOURCE_H
+
+
+#define _GLIBCXX_HAVE_SYS_SDT_H
+
+
+#define _GLIBCXX_HAVE_SYS_SEM_H
+
+
+#define _GLIBCXX_HAVE_SYS_SOCKET_H
+
+
+#define _GLIBCXX_HAVE_SYS_STATVFS_H
+
+
+#define _GLIBCXX_HAVE_SYS_STAT_H
+
+
+#define _GLIBCXX_HAVE_SYS_SYSINFO_H
+
+
+#define _GLIBCXX_HAVE_SYS_TIME_H
+
+
+#define _GLIBCXX_HAVE_SYS_TYPES_H
+
+
+#define _GLIBCXX_HAVE_SYS_UIO_H
+
+
+
+
+
+#define _GLIBCXX_HAVE_S_ISREG
+
+
+#define _GLIBCXX_HAVE_TANF
+
+
+#define _GLIBCXX_HAVE_TANHF
+
+
+#define _GLIBCXX_HAVE_TANHL
+
+
+#define _GLIBCXX_HAVE_TANL
+
+
+#define _GLIBCXX_HAVE_TGMATH_H
+
+
+#define _GLIBCXX_HAVE_TIMESPEC_GET
+
+
+
+
+
+#define _GLIBCXX_HAVE_TLS
+
+
+#define _GLIBCXX_HAVE_TRUNCATE
+
+
+#define _GLIBCXX_HAVE_UCHAR_H
+
+
+#define _GLIBCXX_HAVE_UNISTD_H
+
+
+#define _GLIBCXX_HAVE_UNLINKAT
+
+
+#define _GLIBCXX_HAVE_USELOCALE
+
+
+
+
+
+#define _GLIBCXX_HAVE_UTIME_H
+
+
+#define _GLIBCXX_HAVE_VFWSCANF
+
+
+#define _GLIBCXX_HAVE_VSWSCANF
+
+
+#define _GLIBCXX_HAVE_VWSCANF
+
+
+#define _GLIBCXX_HAVE_WCHAR_H
+
+
+#define _GLIBCXX_HAVE_WCSTOF
+
+
+#define _GLIBCXX_HAVE_WCTYPE_H
+
+
+
+
+
+#define _GLIBCXX_HAVE_WRITEV
+# 1516 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+#define _GLIBCXX_HAVE___CXA_THREAD_ATEXIT_IMPL
+
+
+#define _GLIBCXX_ICONV_CONST
+
+
+
+#define _GLIBCXX_LT_OBJDIR
+
+
+
+
+
+#define _GLIBCXX_PACKAGE_BUGREPORT
+
+
+#define _GLIBCXX_PACKAGE_NAME
+
+
+#define _GLIBCXX_PACKAGE_STRING
+
+
+#define _GLIBCXX_PACKAGE_TARNAME
+
+
+#define _GLIBCXX_PACKAGE_URL
+
+
+#define _GLIBCXX_PACKAGE__GLIBCXX_VERSION
+
+
+#define _GLIBCXX_STDC_HEADERS
+
+
+
+
+
+
+#define _GLIBCXX_DARWIN_USE_64_BIT_INODE
+# 1563 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+#define _GLIBCXX11_USE_C99_COMPLEX
+
+
+
+#define _GLIBCXX11_USE_C99_MATH
+
+
+
+#define _GLIBCXX11_USE_C99_STDIO
+
+
+
+#define _GLIBCXX11_USE_C99_STDLIB
+
+
+
+#define _GLIBCXX11_USE_C99_WCHAR
+
+
+
+
+#define _GLIBCXX98_USE_C99_COMPLEX
+
+
+
+#define _GLIBCXX98_USE_C99_MATH
+
+
+
+#define _GLIBCXX98_USE_C99_STDIO
+
+
+
+#define _GLIBCXX98_USE_C99_STDLIB
+
+
+
+#define _GLIBCXX98_USE_C99_WCHAR
+
+
+#define _GLIBCXX_ATOMIC_BUILTINS
+
+
+
+#define _GLIBCXX_CAN_ALIGNAS_DESTRUCTIVE_SIZE
+
+
+
+
+
+
+#define _GLIBCXX_FULLY_DYNAMIC_STRING
+
+
+#define _GLIBCXX_HAS_GTHREADS
+
+
+#define _GLIBCXX_HOSTED
+
+
+
+
+
+
+
+#define _GLIBCXX_MANGLE_SIZE_T
+# 1640 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+#define _GLIBCXX_RES_LIMITS
+
+
+
+
+
+#define _GLIBCXX_STATIC_TZDATA
+
+
+#define _GLIBCXX_STDIO_EOF
+
+
+#define _GLIBCXX_STDIO_SEEK_CUR
+
+
+#define _GLIBCXX_STDIO_SEEK_END
+
+
+#define _GLIBCXX_SYMVER
+
+
+
+
+
+#define _GLIBCXX_SYMVER_GNU
+# 1674 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+#define _GLIBCXX_USE_C11_UCHAR_CXX11
+
+
+
+#define _GLIBCXX_USE_C99
+
+
+
+
+#define _GLIBCXX_USE_C99_COMPLEX_ARC
+
+
+
+
+#define _GLIBCXX_USE_C99_COMPLEX_TR1
+
+
+
+#define _GLIBCXX_USE_C99_CTYPE
+
+
+
+#define _GLIBCXX_USE_C99_CTYPE_TR1
+
+
+
+#define _GLIBCXX_USE_C99_FENV
+
+
+
+#define _GLIBCXX_USE_C99_FENV_TR1
+
+
+
+#define _GLIBCXX_USE_C99_INTTYPES
+
+
+
+#define _GLIBCXX_USE_C99_INTTYPES_TR1
+
+
+
+#define _GLIBCXX_USE_C99_INTTYPES_WCHAR_T
+
+
+
+#define _GLIBCXX_USE_C99_INTTYPES_WCHAR_T_TR1
+
+
+
+#define _GLIBCXX_USE_C99_MATH_FUNCS
+
+
+
+#define _GLIBCXX_USE_C99_MATH_TR1
+
+
+
+#define _GLIBCXX_USE_C99_STDINT
+
+
+
+#define _GLIBCXX_USE_C99_STDINT_TR1
+
+
+#define _GLIBCXX_USE_CHDIR
+
+
+#define _GLIBCXX_USE_CHMOD
+
+
+
+
+
+
+#define _GLIBCXX_USE_CLOCK_MONOTONIC
+
+
+#define _GLIBCXX_USE_CLOCK_REALTIME
+
+
+
+
+
+
+#define _GLIBCXX_USE_DECIMAL_FLOAT
+
+
+
+#define _GLIBCXX_USE_DEV_RANDOM
+
+
+#define _GLIBCXX_USE_FCHMOD
+
+
+#define _GLIBCXX_USE_FCHMODAT
+
+
+#define _GLIBCXX_USE_FSEEKO_FTELLO
+
+
+#define _GLIBCXX_USE_GETCWD
+
+
+#define _GLIBCXX_USE_GETTIMEOFDAY
+
+
+#define _GLIBCXX_USE_GET_NPROCS
+
+
+#define _GLIBCXX_USE_INIT_PRIORITY_ATTRIBUTE
+
+
+#define _GLIBCXX_USE_LFS
+
+
+#define _GLIBCXX_USE_LONG_LONG
+
+
+#define _GLIBCXX_USE_LSTAT
+
+
+#define _GLIBCXX_USE_MKDIR
+
+
+#define _GLIBCXX_USE_NANOSLEEP
+
+
+#define _GLIBCXX_USE_NLS
+
+
+#define _GLIBCXX_USE_NL_LANGINFO_L
+
+
+
+
+
+#define _GLIBCXX_USE_PTHREAD_COND_CLOCKWAIT
+
+
+#define _GLIBCXX_USE_PTHREAD_MUTEX_CLOCKLOCK
+
+
+
+#define _GLIBCXX_USE_PTHREAD_RWLOCK_CLOCKLOCK
+
+
+#define _GLIBCXX_USE_PTHREAD_RWLOCK_T
+
+
+
+#define _GLIBCXX_USE_RANDOM_TR1
+
+
+#define _GLIBCXX_USE_REALPATH
+
+
+#define _GLIBCXX_USE_SCHED_YIELD
+
+
+#define _GLIBCXX_USE_SC_NPROCESSORS_ONLN
+
+
+
+
+
+#define _GLIBCXX_USE_SENDFILE
+
+
+
+
+
+#define _GLIBCXX_USE_STRUCT_TM_TM_ZONE
+
+
+#define _GLIBCXX_USE_ST_MTIM
+
+
+
+
+
+#define _GLIBCXX_USE_TMPNAM
+
+
+
+#define _GLIBCXX_USE_UCHAR_C8RTOMB_MBRTOC8_CXX20
+
+
+
+#define _GLIBCXX_USE_UCHAR_C8RTOMB_MBRTOC8_FCHAR8_T
+
+
+#define _GLIBCXX_USE_UTIME
+
+
+
+#define _GLIBCXX_USE_UTIMENSAT
+
+
+#define _GLIBCXX_USE_WCHAR_T
+# 1882 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h" 3
+#define _GLIBCXX_VERBOSE
+
+
+#define _GLIBCXX_X86_RDRAND
+
+
+#define _GLIBCXX_X86_RDSEED
+
+
+#define _GLIBCXX_ZONEINFO_DIR
+
+
+#define _GTHREAD_USE_MUTEX_TIMEDLOCK
+# 2 "config.cc" 2
+# 1 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr.h" 1 3
+# 27 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr.h" 3
+#define _GLIBCXX_GCC_GTHR_H
+
+
+#pragma GCC visibility push(default)
+# 157 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr.h" 3
+# 1 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h" 1 3
+# 27 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h" 3
+#define _GLIBCXX_GCC_GTHR_POSIX_H
+
+
+
+
+#define __GTHREADS
+#define __GTHREADS_CXX0X
+
+# 1 "/usr/include/pthread.h" 1 3 4
+# 19 "/usr/include/pthread.h" 3 4
+#define _PTHREAD_H
+
+
+# 1 "/usr/include/sched.h" 1 3 4
+# 20 "/usr/include/sched.h" 3 4
+#define _SCHED_H
+
+
+
+
+# 1 "/usr/include/bits/types.h" 1 3 4
+# 24 "/usr/include/bits/types.h" 3 4
+#define _BITS_TYPES_H
+
+
+# 1 "/usr/include/bits/wordsize.h" 1 3 4
+
+
+
+#define __WORDSIZE
+
+
+
+
+
+
+#define __WORDSIZE_TIME64_COMPAT32
+
+
+
+#define __SYSCALL_WORDSIZE
+# 28 "/usr/include/bits/types.h" 2 3 4
+# 1 "/usr/include/bits/timesize.h" 1 3 4
+# 19 "/usr/include/bits/timesize.h" 3 4
+# 1 "/usr/include/bits/wordsize.h" 1 3 4
+
+
+
+#define __WORDSIZE
+
+
+
+
+
+
+#define __WORDSIZE_TIME64_COMPAT32
+
+
+
+#define __SYSCALL_WORDSIZE
+# 20 "/usr/include/bits/timesize.h" 2 3 4
+
+
+
+
+
+
+#define __TIMESIZE
+# 29 "/usr/include/bits/types.h" 2 3 4
+
+
+typedef unsigned char __u_char;
+typedef unsigned short int __u_short;
+typedef unsigned int __u_int;
+typedef unsigned long int __u_long;
+
+
+typedef signed char __int8_t;
+typedef unsigned char __uint8_t;
+typedef signed short int __int16_t;
+typedef unsigned short int __uint16_t;
+typedef signed int __int32_t;
+typedef unsigned int __uint32_t;
+
+typedef signed long int __int64_t;
+typedef unsigned long int __uint64_t;
+
+
+
+
+
+
+typedef __int8_t __int_least8_t;
+typedef __uint8_t __uint_least8_t;
+typedef __int16_t __int_least16_t;
+typedef __uint16_t __uint_least16_t;
+typedef __int32_t __int_least32_t;
+typedef __uint32_t __uint_least32_t;
+typedef __int64_t __int_least64_t;
+typedef __uint64_t __uint_least64_t;
+
+
+
+typedef long int __quad_t;
+typedef unsigned long int __u_quad_t;
+
+
+
+
+
+
+
+typedef long int __intmax_t;
+typedef unsigned long int __uintmax_t;
+# 109 "/usr/include/bits/types.h" 3 4
+#define __S16_TYPE
+#define __U16_TYPE
+#define __S32_TYPE
+#define __U32_TYPE
+#define __SLONGWORD_TYPE
+#define __ULONGWORD_TYPE
+# 128 "/usr/include/bits/types.h" 3 4
+#define __SQUAD_TYPE
+#define __UQUAD_TYPE
+#define __SWORD_TYPE
+#define __UWORD_TYPE
+#define __SLONG32_TYPE
+#define __ULONG32_TYPE
+#define __S64_TYPE
+#define __U64_TYPE
+
+#define __STD_TYPE
+
+
+
+# 1 "/usr/include/bits/typesizes.h" 1 3 4
+# 24 "/usr/include/bits/typesizes.h" 3 4
+#define _BITS_TYPESIZES_H
+# 34 "/usr/include/bits/typesizes.h" 3 4
+#define __SYSCALL_SLONG_TYPE
+#define __SYSCALL_ULONG_TYPE
+
+
+#define __DEV_T_TYPE
+#define __UID_T_TYPE
+#define __GID_T_TYPE
+#define __INO_T_TYPE
+#define __INO64_T_TYPE
+#define __MODE_T_TYPE
+
+#define __NLINK_T_TYPE
+#define __FSWORD_T_TYPE
+
+
+
+
+#define __OFF_T_TYPE
+#define __OFF64_T_TYPE
+#define __PID_T_TYPE
+#define __RLIM_T_TYPE
+#define __RLIM64_T_TYPE
+#define __BLKCNT_T_TYPE
+#define __BLKCNT64_T_TYPE
+#define __FSBLKCNT_T_TYPE
+#define __FSBLKCNT64_T_TYPE
+#define __FSFILCNT_T_TYPE
+#define __FSFILCNT64_T_TYPE
+#define __ID_T_TYPE
+#define __CLOCK_T_TYPE
+#define __TIME_T_TYPE
+#define __USECONDS_T_TYPE
+#define __SUSECONDS_T_TYPE
+#define __SUSECONDS64_T_TYPE
+#define __DADDR_T_TYPE
+#define __KEY_T_TYPE
+#define __CLOCKID_T_TYPE
+#define __TIMER_T_TYPE
+#define __BLKSIZE_T_TYPE
+#define __FSID_T_TYPE
+#define __SSIZE_T_TYPE
+#define __CPU_MASK_TYPE
+
+
+
+
+
+#define __OFF_T_MATCHES_OFF64_T
+
+
+#define __INO_T_MATCHES_INO64_T
+
+
+#define __RLIM_T_MATCHES_RLIM64_T
+
+
+#define __STATFS_MATCHES_STATFS64
+
+
+#define __KERNEL_OLD_TIMEVAL_MATCHES_TIMEVAL64
+# 103 "/usr/include/bits/typesizes.h" 3 4
+#define __FD_SETSIZE
+# 142 "/usr/include/bits/types.h" 2 3 4
+# 1 "/usr/include/bits/time64.h" 1 3 4
+# 24 "/usr/include/bits/time64.h" 3 4
+#define _BITS_TIME64_H
+
+
+
+
+
+#define __TIME64_T_TYPE
+# 143 "/usr/include/bits/types.h" 2 3 4
+
+
+typedef unsigned long int __dev_t;
+typedef unsigned int __uid_t;
+typedef unsigned int __gid_t;
+typedef unsigned long int __ino_t;
+typedef unsigned long int __ino64_t;
+typedef unsigned int __mode_t;
+typedef unsigned long int __nlink_t;
+typedef long int __off_t;
+typedef long int __off64_t;
+typedef int __pid_t;
+typedef struct { int __val[2]; } __fsid_t;
+typedef long int __clock_t;
+typedef unsigned long int __rlim_t;
+typedef unsigned long int __rlim64_t;
+typedef unsigned int __id_t;
+typedef long int __time_t;
+typedef unsigned int __useconds_t;
+typedef long int __suseconds_t;
+typedef long int __suseconds64_t;
+
+typedef int __daddr_t;
+typedef int __key_t;
+
+
+typedef int __clockid_t;
+
+
+typedef void * __timer_t;
+
+
+typedef long int __blksize_t;
+
+
+
+
+typedef long int __blkcnt_t;
+typedef long int __blkcnt64_t;
+
+
+typedef unsigned long int __fsblkcnt_t;
+typedef unsigned long int __fsblkcnt64_t;
+
+
+typedef unsigned long int __fsfilcnt_t;
+typedef unsigned long int __fsfilcnt64_t;
+
+
+typedef long int __fsword_t;
+
+typedef long int __ssize_t;
+
+
+typedef long int __syscall_slong_t;
+
+typedef unsigned long int __syscall_ulong_t;
+
+
+
+typedef __off64_t __loff_t;
+typedef char *__caddr_t;
+
+
+typedef long int __intptr_t;
+
+
+typedef unsigned int __socklen_t;
+
+
+
+
+typedef int __sig_atomic_t;
+# 226 "/usr/include/bits/types.h" 3 4
+#undef __STD_TYPE
+# 26 "/usr/include/sched.h" 2 3 4
+
+#define __need_size_t
+#define __need_NULL
+# 1 "/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stddef.h" 1 3 4
+# 200 "/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stddef.h" 3 4
+#define __size_t__
+#define __SIZE_T__
+#define _SIZE_T
+#define _SYS_SIZE_T_H
+#define _T_SIZE_
+#define _T_SIZE
+#define __SIZE_T
+#define _SIZE_T_
+#define _BSD_SIZE_T_
+#define _SIZE_T_DEFINED_
+#define _SIZE_T_DEFINED
+#define _BSD_SIZE_T_DEFINED_
+#define _SIZE_T_DECLARED
+#define __DEFINED_size_t
+#define ___int_size_t_h
+#define _GCC_SIZE_T
+#define _SIZET_
+
+
+
+
+
+
+#define __size_t
+
+
+
+
+
+typedef long unsigned int size_t;
+# 252 "/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stddef.h" 3 4
+#undef __need_size_t
+# 414 "/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stddef.h" 3 4
+#undef NULL
+
+#define NULL
+# 425 "/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stddef.h" 3 4
+#undef __need_NULL
+# 30 "/usr/include/sched.h" 2 3 4
+
+# 1 "/usr/include/bits/types/time_t.h" 1 3 4
+
+#define __time_t_defined
+
+
+
+
+
+
+
+typedef __time_t time_t;
+# 32 "/usr/include/sched.h" 2 3 4
+# 1 "/usr/include/bits/types/struct_timespec.h" 1 3 4
+
+
+#define _STRUCT_TIMESPEC
+
+
+# 1 "/usr/include/bits/endian.h" 1 3 4
+# 20 "/usr/include/bits/endian.h" 3 4
+#define _BITS_ENDIAN_H
+# 30 "/usr/include/bits/endian.h" 3 4
+#define __LITTLE_ENDIAN
+#define __BIG_ENDIAN
+#define __PDP_ENDIAN
+
+
+# 1 "/usr/include/bits/endianness.h" 1 3 4
+
+#define _BITS_ENDIANNESS_H
+
+
+
+
+
+
+#define __BYTE_ORDER
+# 36 "/usr/include/bits/endian.h" 2 3 4
+
+
+
+
+#define __FLOAT_WORD_ORDER
+
+
+
+#define __LONG_LONG_PAIR
+# 7 "/usr/include/bits/types/struct_timespec.h" 2 3 4
+
+
+
+
+struct timespec
+{
+
+
+
+  __time_t tv_sec;
+
+
+
+
+  __syscall_slong_t tv_nsec;
+# 31 "/usr/include/bits/types/struct_timespec.h" 3 4
+};
+# 33 "/usr/include/sched.h" 2 3 4
+
+
+
+
+
+typedef __pid_t pid_t;
+#define __pid_t_defined
+
+
+
+# 1 "/usr/include/bits/sched.h" 1 3 4
+# 21 "/usr/include/bits/sched.h" 3 4
+#define _BITS_SCHED_H
+
+
+
+
+
+
+#define SCHED_OTHER
+#define SCHED_FIFO
+#define SCHED_RR
+
+#define SCHED_NORMAL
+#define SCHED_BATCH
+#define SCHED_ISO
+#define SCHED_IDLE
+#define SCHED_DEADLINE
+#define SCHED_EXT
+
+
+#define SCHED_RESET_ON_FORK
+
+
+#define SCHED_FLAG_RESET_ON_FORK
+#define SCHED_FLAG_RECLAIM
+#define SCHED_FLAG_DL_OVERRUN
+#define SCHED_FLAG_KEEP_POLICY
+#define SCHED_FLAG_KEEP_PARAMS
+#define SCHED_FLAG_UTIL_CLAMP_MIN
+#define SCHED_FLAG_UTIL_CLAMP_MAX
+
+
+#define SCHED_FLAG_KEEP_ALL
+
+#define SCHED_FLAG_UTIL_CLAMP
+
+
+
+
+
+
+
+#define sched_param
+# 1 "/usr/include/linux/sched/types.h" 1 3 4
+
+
+#define _LINUX_SCHED_TYPES_H
+
+# 1 "/usr/include/linux/types.h" 1 3 4
+
+
+#define _LINUX_TYPES_H
+
+# 1 "/usr/include/asm/types.h" 1 3 4
+# 1 "/usr/include/asm-generic/types.h" 1 3 4
+
+
+#define _ASM_GENERIC_TYPES_H
+
+
+
+# 1 "/usr/include/asm-generic/int-ll64.h" 1 3 4
+# 10 "/usr/include/asm-generic/int-ll64.h" 3 4
+#define _ASM_GENERIC_INT_LL64_H
+
+# 1 "/usr/include/asm/bitsperlong.h" 1 3 4
+
+
+#define __ASM_X86_BITSPERLONG_H
+
+
+#define __BITS_PER_LONG
+
+
+
+
+# 1 "/usr/include/asm-generic/bitsperlong.h" 1 3 4
+
+
+#define __ASM_GENERIC_BITS_PER_LONG
+# 28 "/usr/include/asm-generic/bitsperlong.h" 3 4
+#define __BITS_PER_LONG_LONG
+# 12 "/usr/include/asm/bitsperlong.h" 2 3 4
+# 13 "/usr/include/asm-generic/int-ll64.h" 2 3 4
+
+
+
+
+
+
+
+typedef __signed__ char __s8;
+typedef unsigned char __u8;
+
+typedef __signed__ short __s16;
+typedef unsigned short __u16;
+
+typedef __signed__ int __s32;
+typedef unsigned int __u32;
+
+
+__extension__ typedef __signed__ long long __s64;
+__extension__ typedef unsigned long long __u64;
+# 8 "/usr/include/asm-generic/types.h" 2 3 4
+# 2 "/usr/include/asm/types.h" 2 3 4
+# 6 "/usr/include/linux/types.h" 2 3 4
+
+
+
+# 1 "/usr/include/linux/posix_types.h" 1 3 4
+
+
+#define _LINUX_POSIX_TYPES_H
+
+# 1 "/usr/include/linux/stddef.h" 1 3 4
+
+
+#define _LINUX_STDDEF_H
+# 15 "/usr/include/linux/stddef.h" 3 4
+#define __struct_group_tag
+# 33 "/usr/include/linux/stddef.h" 3 4
+#define __struct_group
+
+
+
+
+
+
+
+#define __DECLARE_FLEX_ARRAY
+# 62 "/usr/include/linux/stddef.h" 3 4
+#define __counted_by
+
+
+
+#define __counted_by_le
+
+
+
+#define __counted_by_be
+
+
+#define __kernel_nonstring
+# 6 "/usr/include/linux/posix_types.h" 2 3 4
+# 22 "/usr/include/linux/posix_types.h" 3 4
+#undef __FD_SETSIZE
+#define __FD_SETSIZE
+
+typedef struct {
+ unsigned long fds_bits[1024 / (8 * sizeof(long))];
+} __kernel_fd_set;
+
+
+typedef void (*__kernel_sighandler_t)(int);
+
+
+typedef int __kernel_key_t;
+typedef int __kernel_mqd_t;
+
+# 1 "/usr/include/asm/posix_types.h" 1 3 4
+
+
+
+
+
+
+# 1 "/usr/include/asm/posix_types_64.h" 1 3 4
+
+
+#define _ASM_X86_POSIX_TYPES_64_H
+
+
+
+
+
+
+
+typedef unsigned short __kernel_old_uid_t;
+typedef unsigned short __kernel_old_gid_t;
+#define __kernel_old_uid_t
+
+typedef unsigned long __kernel_old_dev_t;
+#define __kernel_old_dev_t
+
+# 1 "/usr/include/asm-generic/posix_types.h" 1 3 4
+
+
+#define __ASM_GENERIC_POSIX_TYPES_H
+# 15 "/usr/include/asm-generic/posix_types.h" 3 4
+typedef long __kernel_long_t;
+typedef unsigned long __kernel_ulong_t;
+
+
+
+typedef __kernel_ulong_t __kernel_ino_t;
+
+
+
+typedef unsigned int __kernel_mode_t;
+
+
+
+typedef int __kernel_pid_t;
+
+
+
+typedef int __kernel_ipc_pid_t;
+
+
+
+typedef unsigned int __kernel_uid_t;
+typedef unsigned int __kernel_gid_t;
+
+
+
+typedef __kernel_long_t __kernel_suseconds_t;
+
+
+
+typedef int __kernel_daddr_t;
+
+
+
+typedef unsigned int __kernel_uid32_t;
+typedef unsigned int __kernel_gid32_t;
+# 72 "/usr/include/asm-generic/posix_types.h" 3 4
+typedef __kernel_ulong_t __kernel_size_t;
+typedef __kernel_long_t __kernel_ssize_t;
+typedef __kernel_long_t __kernel_ptrdiff_t;
+
+
+
+
+typedef struct {
+ int val[2];
+} __kernel_fsid_t;
+
+
+
+
+
+typedef __kernel_long_t __kernel_off_t;
+typedef long long __kernel_loff_t;
+typedef __kernel_long_t __kernel_old_time_t;
+typedef __kernel_long_t __kernel_time_t;
+typedef long long __kernel_time64_t;
+typedef __kernel_long_t __kernel_clock_t;
+typedef int __kernel_timer_t;
+typedef int __kernel_clockid_t;
+typedef char * __kernel_caddr_t;
+typedef unsigned short __kernel_uid16_t;
+typedef unsigned short __kernel_gid16_t;
+# 19 "/usr/include/asm/posix_types_64.h" 2 3 4
+# 8 "/usr/include/asm/posix_types.h" 2 3 4
+# 37 "/usr/include/linux/posix_types.h" 2 3 4
+# 10 "/usr/include/linux/types.h" 2 3 4
+
+
+typedef __signed__ __int128 __s128 __attribute__((aligned(16)));
+typedef unsigned __int128 __u128 __attribute__((aligned(16)));
+# 25 "/usr/include/linux/types.h" 3 4
+#define __bitwise
+
+
+
+#define __bitwise__
+
+typedef __u16 __le16;
+typedef __u16 __be16;
+typedef __u32 __le32;
+typedef __u32 __be32;
+typedef __u64 __le64;
+typedef __u64 __be64;
+
+typedef __u16 __sum16;
+typedef __u32 __wsum;
+# 50 "/usr/include/linux/types.h" 3 4
+#define __aligned_u64
+#define __aligned_s64
+#define __aligned_be64
+#define __aligned_le64
+
+typedef unsigned __poll_t;
+# 6 "/usr/include/linux/sched/types.h" 2 3 4
+
+#define SCHED_ATTR_SIZE_VER0
+#define SCHED_ATTR_SIZE_VER1
+# 98 "/usr/include/linux/sched/types.h" 3 4
+struct sched_attr {
+ __u32 size;
+
+ __u32 sched_policy;
+ __u64 sched_flags;
+
+
+ __s32 sched_nice;
+
+
+ __u32 sched_priority;
+
+
+ __u64 sched_runtime;
+ __u64 sched_deadline;
+ __u64 sched_period;
+
+
+ __u32 sched_util_min;
+ __u32 sched_util_max;
+
+};
+# 64 "/usr/include/bits/sched.h" 2 3 4
+#undef sched_param
+# 88 "/usr/include/bits/sched.h" 3 4
+#define CSIGNAL
+#define CLONE_VM
+#define CLONE_FS
+#define CLONE_FILES
+#define CLONE_SIGHAND
+#define CLONE_PIDFD
+
+#define CLONE_PTRACE
+#define CLONE_VFORK
+
+#define CLONE_PARENT
+
+#define CLONE_THREAD
+#define CLONE_NEWNS
+#define CLONE_SYSVSEM
+#define CLONE_SETTLS
+#define CLONE_PARENT_SETTID
+
+#define CLONE_CHILD_CLEARTID
+
+#define CLONE_DETACHED
+#define CLONE_UNTRACED
+
+#define CLONE_CHILD_SETTID
+
+#define CLONE_NEWCGROUP
+#define CLONE_NEWUTS
+#define CLONE_NEWIPC
+#define CLONE_NEWUSER
+#define CLONE_NEWPID
+#define CLONE_NEWNET
+#define CLONE_IO
+
+
+
+#define CLONE_NEWTIME
+
+
+# 1 "/usr/include/bits/types/struct_sched_param.h" 1 3 4
+# 20 "/usr/include/bits/types/struct_sched_param.h" 3 4
+#define _BITS_TYPES_STRUCT_SCHED_PARAM
+
+
+struct sched_param
+{
+  int sched_priority;
+};
+# 127 "/usr/include/bits/sched.h" 2 3 4
+
+extern "C" {
+
+
+
+extern int clone (int (*__fn) (void *__arg), void *__child_stack,
+    int __flags, void *__arg, ...) noexcept (true);
+
+
+extern int unshare (int __flags) noexcept (true);
+
+
+extern int sched_getcpu (void) noexcept (true);
+
+
+extern int getcpu (unsigned int *, unsigned int *) noexcept (true);
+
+
+extern int setns (int __fd, int __nstype) noexcept (true);
+
+
+int sched_setattr (pid_t tid, struct sched_attr *attr, unsigned int flags)
+  noexcept (true) __attribute__ ((__nonnull__ (2)));
+
+
+
+int sched_getattr (pid_t tid, struct sched_attr *attr, unsigned int size,
+     unsigned int flags)
+  noexcept (true) __attribute__ ((__nonnull__ (2)));
+
+
+
+}
+# 44 "/usr/include/sched.h" 2 3 4
+# 1 "/usr/include/bits/cpu-set.h" 1 3 4
+# 21 "/usr/include/bits/cpu-set.h" 3 4
+#define _BITS_CPU_SET_H
+
+
+
+
+
+
+#define __CPU_SETSIZE
+#define __NCPUBITS
+
+
+typedef unsigned long int __cpu_mask;
+
+
+#define __CPUELT
+#define __CPUMASK
+
+
+typedef struct
+{
+  __cpu_mask __bits[1024 / (8 * sizeof (__cpu_mask))];
+} cpu_set_t;
+
+
+
+#define __CPU_ZERO_S
+# 58 "/usr/include/bits/cpu-set.h" 3 4
+#define __CPU_SET_S
+
+
+
+
+
+
+#define __CPU_CLR_S
+
+
+
+
+
+
+#define __CPU_ISSET_S
+
+
+
+
+
+
+
+#define __CPU_COUNT_S
+
+
+
+#define __CPU_EQUAL_S
+# 99 "/usr/include/bits/cpu-set.h" 3 4
+#define __CPU_OP_S
+# 110 "/usr/include/bits/cpu-set.h" 3 4
+#define __CPU_ALLOC_SIZE
+
+#define __CPU_ALLOC
+#define __CPU_FREE
+
+extern "C" {
+
+extern int __sched_cpucount (size_t __setsize, const cpu_set_t *__setp)
+     noexcept (true);
+extern cpu_set_t *__sched_cpualloc (size_t __count) noexcept (true) ;
+extern void __sched_cpufree (cpu_set_t *__set) noexcept (true);
+
+}
+# 45 "/usr/include/sched.h" 2 3 4
+
+
+#define sched_priority
+#define __sched_priority
+
+
+extern "C" {
+
+
+extern int sched_setparam (__pid_t __pid, const struct sched_param *__param)
+     noexcept (true);
+
+
+extern int sched_getparam (__pid_t __pid, struct sched_param *__param) noexcept (true);
+
+
+extern int sched_setscheduler (__pid_t __pid, int __policy,
+          const struct sched_param *__param) noexcept (true);
+
+
+extern int sched_getscheduler (__pid_t __pid) noexcept (true);
+
+
+extern int sched_yield (void) noexcept (true);
+
+
+extern int sched_get_priority_max (int __algorithm) noexcept (true);
+
+
+extern int sched_get_priority_min (int __algorithm) noexcept (true);
+
+
+
+extern int sched_rr_get_interval (__pid_t __pid, struct timespec *__t) noexcept (true);
+# 91 "/usr/include/sched.h" 3 4
+#define CPU_SETSIZE
+#define CPU_SET
+#define CPU_CLR
+#define CPU_ISSET
+
+#define CPU_ZERO
+#define CPU_COUNT
+
+#define CPU_SET_S
+#define CPU_CLR_S
+#define CPU_ISSET_S
+
+#define CPU_ZERO_S
+#define CPU_COUNT_S
+
+#define CPU_EQUAL
+
+#define CPU_EQUAL_S
+
+
+#define CPU_AND
+
+#define CPU_OR
+
+#define CPU_XOR
+
+#define CPU_AND_S
+
+#define CPU_OR_S
+
+#define CPU_XOR_S
+
+
+#define CPU_ALLOC_SIZE
+#define CPU_ALLOC
+#define CPU_FREE
+
+
+
+extern int sched_setaffinity (__pid_t __pid, size_t __cpusetsize,
+         const cpu_set_t *__cpuset) noexcept (true);
+
+
+extern int sched_getaffinity (__pid_t __pid, size_t __cpusetsize,
+         cpu_set_t *__cpuset) noexcept (true);
+
+
+}
+# 23 "/usr/include/pthread.h" 2 3 4
+# 1 "/usr/include/time.h" 1 3 4
+# 23 "/usr/include/time.h" 3 4
+#define _TIME_H
+
+
+
+#define __need_size_t
+#define __need_NULL
+# 1 "/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stddef.h" 1 3 4
+# 252 "/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stddef.h" 3 4
+#undef __need_size_t
+# 414 "/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stddef.h" 3 4
+#undef NULL
+
+#define NULL
+# 425 "/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stddef.h" 3 4
+#undef __need_NULL
+# 30 "/usr/include/time.h" 2 3 4
+
+
+
+# 1 "/usr/include/bits/time.h" 1 3 4
+# 24 "/usr/include/bits/time.h" 3 4
+#define _BITS_TIME_H
+# 34 "/usr/include/bits/time.h" 3 4
+#define CLOCKS_PER_SEC
+# 46 "/usr/include/bits/time.h" 3 4
+#define CLOCK_REALTIME
+
+#define CLOCK_MONOTONIC
+
+#define CLOCK_PROCESS_CPUTIME_ID
+
+#define CLOCK_THREAD_CPUTIME_ID
+
+#define CLOCK_MONOTONIC_RAW
+
+#define CLOCK_REALTIME_COARSE
+
+#define CLOCK_MONOTONIC_COARSE
+
+#define CLOCK_BOOTTIME
+
+#define CLOCK_REALTIME_ALARM
+
+#define CLOCK_BOOTTIME_ALARM
+
+#define CLOCK_TAI
+
+
+#define TIMER_ABSTIME
+
+
+
+# 1 "/usr/include/bits/timex.h" 1 3 4
+# 19 "/usr/include/bits/timex.h" 3 4
+#define _BITS_TIMEX_H
+
+
+# 1 "/usr/include/bits/types/struct_timeval.h" 1 3 4
+
+#define __timeval_defined
+
+
+
+
+
+struct timeval
+{
+
+
+
+
+  __time_t tv_sec;
+  __suseconds_t tv_usec;
+
+};
+# 23 "/usr/include/bits/timex.h" 2 3 4
+
+
+
+struct timex
+{
+# 58 "/usr/include/bits/timex.h" 3 4
+  unsigned int modes;
+  __syscall_slong_t offset;
+  __syscall_slong_t freq;
+  __syscall_slong_t maxerror;
+  __syscall_slong_t esterror;
+  int status;
+  __syscall_slong_t constant;
+  __syscall_slong_t precision;
+  __syscall_slong_t tolerance;
+  struct timeval time;
+  __syscall_slong_t tick;
+  __syscall_slong_t ppsfreq;
+  __syscall_slong_t jitter;
+  int shift;
+  __syscall_slong_t stabil;
+  __syscall_slong_t jitcnt;
+  __syscall_slong_t calcnt;
+  __syscall_slong_t errcnt;
+  __syscall_slong_t stbcnt;
+
+  int tai;
+
+
+  int :32; int :32; int :32; int :32;
+  int :32; int :32; int :32; int :32;
+  int :32; int :32; int :32;
+
+};
+
+
+#define ADJ_OFFSET
+#define ADJ_FREQUENCY
+#define ADJ_MAXERROR
+#define ADJ_ESTERROR
+#define ADJ_STATUS
+#define ADJ_TIMECONST
+#define ADJ_TAI
+#define ADJ_SETOFFSET
+#define ADJ_MICRO
+#define ADJ_NANO
+#define ADJ_TICK
+#define ADJ_OFFSET_SINGLESHOT
+#define ADJ_OFFSET_SS_READ
+
+
+#define MOD_OFFSET
+#define MOD_FREQUENCY
+#define MOD_MAXERROR
+#define MOD_ESTERROR
+#define MOD_STATUS
+#define MOD_TIMECONST
+#define MOD_CLKB
+#define MOD_CLKA
+#define MOD_TAI
+#define MOD_MICRO
+#define MOD_NANO
+
+
+
+#define STA_PLL
+#define STA_PPSFREQ
+#define STA_PPSTIME
+#define STA_FLL
+
+#define STA_INS
+#define STA_DEL
+#define STA_UNSYNC
+#define STA_FREQHOLD
+
+#define STA_PPSSIGNAL
+#define STA_PPSJITTER
+#define STA_PPSWANDER
+#define STA_PPSERROR
+
+#define STA_CLOCKERR
+#define STA_NANO
+#define STA_MODE
+#define STA_CLK
+
+
+#define STA_RONLY
+# 74 "/usr/include/bits/time.h" 2 3 4
+
+extern "C" {
+
+
+extern int clock_adjtime (__clockid_t __clock_id, struct timex *__utx) noexcept (true) __attribute__ ((__nonnull__ (2)));
+# 90 "/usr/include/bits/time.h" 3 4
+}
+# 34 "/usr/include/time.h" 2 3 4
+
+
+
+# 1 "/usr/include/bits/types/clock_t.h" 1 3 4
+
+#define __clock_t_defined
+
+
+
+
+typedef __clock_t clock_t;
+# 38 "/usr/include/time.h" 2 3 4
+
+# 1 "/usr/include/bits/types/struct_tm.h" 1 3 4
+
+#define __struct_tm_defined
+
+
+
+
+struct tm
+{
+  int tm_sec;
+  int tm_min;
+  int tm_hour;
+  int tm_mday;
+  int tm_mon;
+  int tm_year;
+  int tm_wday;
+  int tm_yday;
+  int tm_isdst;
+
+
+  long int tm_gmtoff;
+  const char *tm_zone;
+
+
+
+
+};
+# 40 "/usr/include/time.h" 2 3 4
+
+
+
+
+
+
+# 1 "/usr/include/bits/types/clockid_t.h" 1 3 4
+
+#define __clockid_t_defined
+
+
+
+
+typedef __clockid_t clockid_t;
+# 47 "/usr/include/time.h" 2 3 4
+# 1 "/usr/include/bits/types/timer_t.h" 1 3 4
+
+#define __timer_t_defined
+
+
+
+
+typedef __timer_t timer_t;
+# 48 "/usr/include/time.h" 2 3 4
+# 1 "/usr/include/bits/types/struct_itimerspec.h" 1 3 4
+
+#define __itimerspec_defined
+
+
+
+
+
+struct itimerspec
+  {
+    struct timespec it_interval;
+    struct timespec it_value;
+  };
+# 49 "/usr/include/time.h" 2 3 4
+struct sigevent;
+# 60 "/usr/include/time.h" 3 4
+# 1 "/usr/include/bits/types/locale_t.h" 1 3 4
+# 20 "/usr/include/bits/types/locale_t.h" 3 4
+#define _BITS_TYPES_LOCALE_T_H
+
+# 1 "/usr/include/bits/types/__locale_t.h" 1 3 4
+# 20 "/usr/include/bits/types/__locale_t.h" 3 4
+#define _BITS_TYPES___LOCALE_T_H
+
+
+
+
+
+
+struct __locale_struct
+{
+
+  struct __locale_data *__locales[13];
+
+
+  const unsigned short int *__ctype_b;
+  const int *__ctype_tolower;
+  const int *__ctype_toupper;
+
+
+  const char *__names[13];
+};
+
+typedef struct __locale_struct *__locale_t;
+# 23 "/usr/include/bits/types/locale_t.h" 2 3 4
+
+typedef __locale_t locale_t;
+# 61 "/usr/include/time.h" 2 3 4
+
+
+
+
+#define TIME_UTC
+
+
+extern "C" {
+
+
+
+extern clock_t clock (void) noexcept (true);
+
+
+
+extern time_t time (time_t *__timer) noexcept (true);
+
+
+extern double difftime (time_t __time1, time_t __time0);
+
+
+extern time_t mktime (struct tm *__tp) noexcept (true);
+# 99 "/usr/include/time.h" 3 4
+extern size_t strftime (char *__restrict __s, size_t __maxsize,
+   const char *__restrict __format,
+   const struct tm *__restrict __tp)
+   noexcept (true) __attribute__ ((__nonnull__ (1, 3, 4)));
+
+
+
+
+extern char *strptime (const char *__restrict __s,
+         const char *__restrict __fmt, struct tm *__tp)
+     noexcept (true);
+
+
+
+
+
+
+extern size_t strftime_l (char *__restrict __s, size_t __maxsize,
+     const char *__restrict __format,
+     const struct tm *__restrict __tp,
+     locale_t __loc) noexcept (true);
+
+
+
+extern char *strptime_l (const char *__restrict __s,
+    const char *__restrict __fmt, struct tm *__tp,
+    locale_t __loc) noexcept (true);
+
+
+
+
+
+
+extern struct tm *gmtime (const time_t *__timer) noexcept (true);
+
+
+
+extern struct tm *localtime (const time_t *__timer) noexcept (true);
+# 154 "/usr/include/time.h" 3 4
+extern struct tm *gmtime_r (const time_t *__restrict __timer,
+       struct tm *__restrict __tp) noexcept (true);
+
+
+
+extern struct tm *localtime_r (const time_t *__restrict __timer,
+          struct tm *__restrict __tp) noexcept (true);
+# 179 "/usr/include/time.h" 3 4
+extern char *asctime (const struct tm *__tp) noexcept (true);
+
+
+
+extern char *ctime (const time_t *__timer) noexcept (true);
+# 197 "/usr/include/time.h" 3 4
+extern char *asctime_r (const struct tm *__restrict __tp,
+   char *__restrict __buf) noexcept (true);
+
+
+
+extern char *ctime_r (const time_t *__restrict __timer,
+        char *__restrict __buf) noexcept (true);
+# 217 "/usr/include/time.h" 3 4
+extern char *__tzname[2];
+extern int __daylight;
+extern long int __timezone;
+
+
+
+
+extern char *tzname[2];
+
+
+
+extern void tzset (void) noexcept (true);
+
+
+
+extern int daylight;
+extern long int timezone;
+
+
+
+
+
+#define __isleap
+
+
+
+
+
+
+extern time_t timegm (struct tm *__tp) noexcept (true);
+# 263 "/usr/include/time.h" 3 4
+extern time_t timelocal (struct tm *__tp) noexcept (true);
+
+
+
+
+
+
+
+extern int dysize (int __year) noexcept (true) __attribute__ ((__const__));
+# 281 "/usr/include/time.h" 3 4
+extern int nanosleep (const struct timespec *__requested_time,
+        struct timespec *__remaining);
+
+
+extern int clock_getres (clockid_t __clock_id, struct timespec *__res) noexcept (true);
+
+
+extern int clock_gettime (clockid_t __clock_id, struct timespec *__tp)
+     noexcept (true) __attribute__ ((__nonnull__ (2)));
+
+
+extern int clock_settime (clockid_t __clock_id, const struct timespec *__tp)
+     noexcept (true) __attribute__ ((__nonnull__ (2)));
+# 323 "/usr/include/time.h" 3 4
+extern int clock_nanosleep (clockid_t __clock_id, int __flags,
+       const struct timespec *__req,
+       struct timespec *__rem);
+# 338 "/usr/include/time.h" 3 4
+extern int clock_getcpuclockid (pid_t __pid, clockid_t *__clock_id) noexcept (true);
+
+
+
+
+extern int timer_create (clockid_t __clock_id,
+    struct sigevent *__restrict __evp,
+    timer_t *__restrict __timerid) noexcept (true);
+
+
+extern int timer_delete (timer_t __timerid) noexcept (true);
+
+
+
+extern int timer_settime (timer_t __timerid, int __flags,
+     const struct itimerspec *__restrict __value,
+     struct itimerspec *__restrict __ovalue) noexcept (true);
+
+
+extern int timer_gettime (timer_t __timerid, struct itimerspec *__value)
+     noexcept (true);
+# 376 "/usr/include/time.h" 3 4
+extern int timer_getoverrun (timer_t __timerid) noexcept (true);
+
+
+
+
+
+
+extern int timespec_get (struct timespec *__ts, int __base)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+# 399 "/usr/include/time.h" 3 4
+extern int timespec_getres (struct timespec *__ts, int __base)
+     noexcept (true);
+# 425 "/usr/include/time.h" 3 4
+extern int getdate_err;
+# 434 "/usr/include/time.h" 3 4
+extern struct tm *getdate (const char *__string);
+# 448 "/usr/include/time.h" 3 4
+extern int getdate_r (const char *__restrict __string,
+        struct tm *__restrict __resbufp);
+
+
+}
+# 24 "/usr/include/pthread.h" 2 3 4
+
+
+# 1 "/usr/include/bits/pthreadtypes.h" 1 3 4
+# 20 "/usr/include/bits/pthreadtypes.h" 3 4
+#define _BITS_PTHREADTYPES_COMMON_H
+
+
+# 1 "/usr/include/bits/thread-shared-types.h" 1 3 4
+# 20 "/usr/include/bits/thread-shared-types.h" 3 4
+#define _THREAD_SHARED_TYPES_H
+# 44 "/usr/include/bits/thread-shared-types.h" 3 4
+# 1 "/usr/include/bits/pthreadtypes-arch.h" 1 3 4
+# 19 "/usr/include/bits/pthreadtypes-arch.h" 3 4
+#define _BITS_PTHREADTYPES_ARCH_H
+
+# 1 "/usr/include/bits/wordsize.h" 1 3 4
+
+
+
+#define __WORDSIZE
+
+
+
+
+
+
+#define __WORDSIZE_TIME64_COMPAT32
+
+
+
+#define __SYSCALL_WORDSIZE
+# 22 "/usr/include/bits/pthreadtypes-arch.h" 2 3 4
+
+
+
+#define __SIZEOF_PTHREAD_MUTEX_T
+#define __SIZEOF_PTHREAD_ATTR_T
+#define __SIZEOF_PTHREAD_RWLOCK_T
+#define __SIZEOF_PTHREAD_BARRIER_T
+# 41 "/usr/include/bits/pthreadtypes-arch.h" 3 4
+#define __SIZEOF_PTHREAD_MUTEXATTR_T
+#define __SIZEOF_PTHREAD_COND_T
+#define __SIZEOF_PTHREAD_CONDATTR_T
+#define __SIZEOF_PTHREAD_RWLOCKATTR_T
+#define __SIZEOF_PTHREAD_BARRIERATTR_T
+
+#define __LOCK_ALIGNMENT
+#define __ONCE_ALIGNMENT
+# 45 "/usr/include/bits/thread-shared-types.h" 2 3 4
+
+# 1 "/usr/include/bits/atomic_wide_counter.h" 1 3 4
+# 20 "/usr/include/bits/atomic_wide_counter.h" 3 4
+#define _BITS_ATOMIC_WIDE_COUNTER_H
+
+
+
+
+typedef union
+{
+  __extension__ unsigned long long int __value64;
+  struct
+  {
+    unsigned int __low;
+    unsigned int __high;
+  } __value32;
+} __atomic_wide_counter;
+# 47 "/usr/include/bits/thread-shared-types.h" 2 3 4
+
+
+
+
+typedef struct __pthread_internal_list
+{
+  struct __pthread_internal_list *__prev;
+  struct __pthread_internal_list *__next;
+} __pthread_list_t;
+
+typedef struct __pthread_internal_slist
+{
+  struct __pthread_internal_slist *__next;
+} __pthread_slist_t;
+# 76 "/usr/include/bits/thread-shared-types.h" 3 4
+# 1 "/usr/include/bits/struct_mutex.h" 1 3 4
+# 20 "/usr/include/bits/struct_mutex.h" 3 4
+#define _THREAD_MUTEX_INTERNAL_H
+
+struct __pthread_mutex_s
+{
+  int __lock;
+  unsigned int __count;
+  int __owner;
+
+  unsigned int __nusers;
+
+
+
+  int __kind;
+
+  short __spins;
+  short __elision;
+  __pthread_list_t __list;
+#define __PTHREAD_MUTEX_HAVE_PREV
+# 53 "/usr/include/bits/struct_mutex.h" 3 4
+};
+
+
+#define __PTHREAD_MUTEX_INITIALIZER
+# 77 "/usr/include/bits/thread-shared-types.h" 2 3 4
+# 89 "/usr/include/bits/thread-shared-types.h" 3 4
+# 1 "/usr/include/bits/struct_rwlock.h" 1 3 4
+# 21 "/usr/include/bits/struct_rwlock.h" 3 4
+#define _RWLOCK_INTERNAL_H
+
+struct __pthread_rwlock_arch_t
+{
+  unsigned int __readers;
+  unsigned int __writers;
+  unsigned int __wrphase_futex;
+  unsigned int __writers_futex;
+  unsigned int __pad3;
+  unsigned int __pad4;
+
+  int __cur_writer;
+  int __shared;
+  signed char __rwelision;
+
+
+
+
+  unsigned char __pad1[7];
+#define __PTHREAD_RWLOCK_ELISION_EXTRA
+
+  unsigned long int __pad2;
+
+
+  unsigned int __flags;
+# 55 "/usr/include/bits/struct_rwlock.h" 3 4
+};
+
+
+#define __PTHREAD_RWLOCK_INITIALIZER
+# 90 "/usr/include/bits/thread-shared-types.h" 2 3 4
+
+
+
+
+struct __pthread_cond_s
+{
+  __atomic_wide_counter __wseq;
+  __atomic_wide_counter __g1_start;
+  unsigned int __g_size[2] ;
+  unsigned int __g1_orig_size;
+  unsigned int __wrefs;
+  unsigned int __g_signals[2];
+  unsigned int __unused_initialized_1;
+  unsigned int __unused_initialized_2;
+};
+
+typedef unsigned int __tss_t;
+typedef unsigned long int __thrd_t;
+
+typedef struct
+{
+  int __data ;
+} __once_flag;
+
+#define __ONCE_FLAG_INIT
+# 24 "/usr/include/bits/pthreadtypes.h" 2 3 4
+
+
+
+typedef unsigned long int pthread_t;
+
+
+
+
+typedef union
+{
+  char __size[4];
+  int __align;
+} pthread_mutexattr_t;
+
+
+
+
+typedef union
+{
+  char __size[4];
+  int __align;
+} pthread_condattr_t;
+
+
+
+typedef unsigned int pthread_key_t;
+
+
+
+typedef int pthread_once_t;
+
+
+union pthread_attr_t
+{
+  char __size[56];
+  long int __align;
+};
+
+typedef union pthread_attr_t pthread_attr_t;
+#define __have_pthread_attr_t
+
+
+
+typedef union
+{
+  struct __pthread_mutex_s __data;
+  char __size[40];
+  long int __align;
+} pthread_mutex_t;
+
+
+typedef union
+{
+  struct __pthread_cond_s __data;
+  char __size[48];
+  __extension__ long long int __align;
+} pthread_cond_t;
+
+
+
+
+
+typedef union
+{
+  struct __pthread_rwlock_arch_t __data;
+  char __size[56];
+  long int __align;
+} pthread_rwlock_t;
+
+typedef union
+{
+  char __size[8];
+  long int __align;
+} pthread_rwlockattr_t;
+
+
+
+
+
+typedef volatile int pthread_spinlock_t;
+
+
+
+
+typedef union
+{
+  char __size[32];
+  long int __align;
+} pthread_barrier_t;
+
+typedef union
+{
+  char __size[4];
+  int __align;
+} pthread_barrierattr_t;
+# 27 "/usr/include/pthread.h" 2 3 4
+# 1 "/usr/include/bits/setjmp.h" 1 3 4
+# 20 "/usr/include/bits/setjmp.h" 3 4
+#define _BITS_SETJMP_H
+
+
+
+
+
+# 1 "/usr/include/bits/wordsize.h" 1 3 4
+
+
+
+#define __WORDSIZE
+
+
+
+
+
+
+#define __WORDSIZE_TIME64_COMPAT32
+
+
+
+#define __SYSCALL_WORDSIZE
+# 27 "/usr/include/bits/setjmp.h" 2 3 4
+
+
+
+
+typedef long int __jmp_buf[8];
+# 28 "/usr/include/pthread.h" 2 3 4
+# 1 "/usr/include/bits/wordsize.h" 1 3 4
+
+
+
+#define __WORDSIZE
+
+
+
+
+
+
+#define __WORDSIZE_TIME64_COMPAT32
+
+
+
+#define __SYSCALL_WORDSIZE
+# 29 "/usr/include/pthread.h" 2 3 4
+
+# 1 "/usr/include/bits/types/__sigset_t.h" 1 3 4
+
+#define ____sigset_t_defined
+
+#define _SIGSET_NWORDS
+typedef struct
+{
+  unsigned long int __val[(1024 / (8 * sizeof (unsigned long int)))];
+} __sigset_t;
+# 31 "/usr/include/pthread.h" 2 3 4
+# 1 "/usr/include/bits/types/struct___jmp_buf_tag.h" 1 3 4
+# 20 "/usr/include/bits/types/struct___jmp_buf_tag.h" 3 4
+#define __jmp_buf_tag_defined
+
+
+
+
+
+struct __jmp_buf_tag
+  {
+
+
+
+
+    __jmp_buf __jmpbuf;
+    int __mask_was_saved;
+    __sigset_t __saved_mask;
+  };
+# 32 "/usr/include/pthread.h" 2 3 4
+
+# 1 "/usr/include/bits/pthread_stack_min-dynamic.h" 1 3 4
+# 22 "/usr/include/bits/pthread_stack_min-dynamic.h" 3 4
+#define __SC_THREAD_STACK_MIN_VALUE
+extern "C" {
+extern long int __sysconf (int __name) noexcept (true);
+}
+#define PTHREAD_STACK_MIN
+# 34 "/usr/include/pthread.h" 2 3 4
+
+
+
+enum
+{
+  PTHREAD_CREATE_JOINABLE,
+#define PTHREAD_CREATE_JOINABLE
+  PTHREAD_CREATE_DETACHED
+#define PTHREAD_CREATE_DETACHED
+};
+
+
+
+enum
+{
+  PTHREAD_MUTEX_TIMED_NP,
+  PTHREAD_MUTEX_RECURSIVE_NP,
+  PTHREAD_MUTEX_ERRORCHECK_NP,
+  PTHREAD_MUTEX_ADAPTIVE_NP
+
+  ,
+  PTHREAD_MUTEX_NORMAL = PTHREAD_MUTEX_TIMED_NP,
+  PTHREAD_MUTEX_RECURSIVE = PTHREAD_MUTEX_RECURSIVE_NP,
+  PTHREAD_MUTEX_ERRORCHECK = PTHREAD_MUTEX_ERRORCHECK_NP,
+  PTHREAD_MUTEX_DEFAULT = PTHREAD_MUTEX_NORMAL
+
+
+
+  , PTHREAD_MUTEX_FAST_NP = PTHREAD_MUTEX_TIMED_NP
+
+};
+
+
+
+
+enum
+{
+  PTHREAD_MUTEX_STALLED,
+  PTHREAD_MUTEX_STALLED_NP = PTHREAD_MUTEX_STALLED,
+  PTHREAD_MUTEX_ROBUST,
+  PTHREAD_MUTEX_ROBUST_NP = PTHREAD_MUTEX_ROBUST
+};
+
+
+
+
+
+enum
+{
+  PTHREAD_PRIO_NONE,
+  PTHREAD_PRIO_INHERIT,
+  PTHREAD_PRIO_PROTECT
+};
+
+
+
+#define PTHREAD_MUTEX_INITIALIZER
+
+
+#define PTHREAD_RECURSIVE_MUTEX_INITIALIZER_NP
+
+#define PTHREAD_ERRORCHECK_MUTEX_INITIALIZER_NP
+
+#define PTHREAD_ADAPTIVE_MUTEX_INITIALIZER_NP
+
+
+
+
+
+
+enum
+{
+  PTHREAD_RWLOCK_PREFER_READER_NP,
+  PTHREAD_RWLOCK_PREFER_WRITER_NP,
+  PTHREAD_RWLOCK_PREFER_WRITER_NONRECURSIVE_NP,
+  PTHREAD_RWLOCK_DEFAULT_NP = PTHREAD_RWLOCK_PREFER_READER_NP
+};
+
+
+
+#define PTHREAD_RWLOCK_INITIALIZER
+
+
+#define PTHREAD_RWLOCK_WRITER_NONRECURSIVE_INITIALIZER_NP
+
+
+
+
+
+
+enum
+{
+  PTHREAD_INHERIT_SCHED,
+#define PTHREAD_INHERIT_SCHED
+  PTHREAD_EXPLICIT_SCHED
+#define PTHREAD_EXPLICIT_SCHED
+};
+
+
+
+enum
+{
+  PTHREAD_SCOPE_SYSTEM,
+#define PTHREAD_SCOPE_SYSTEM
+  PTHREAD_SCOPE_PROCESS
+#define PTHREAD_SCOPE_PROCESS
+};
+
+
+
+enum
+{
+  PTHREAD_PROCESS_PRIVATE,
+#define PTHREAD_PROCESS_PRIVATE
+  PTHREAD_PROCESS_SHARED
+#define PTHREAD_PROCESS_SHARED
+};
+
+
+
+
+#define PTHREAD_COND_INITIALIZER
+
+
+
+struct _pthread_cleanup_buffer
+{
+  void (*__routine) (void *);
+  void *__arg;
+  int __canceltype;
+  struct _pthread_cleanup_buffer *__prev;
+};
+
+
+enum
+{
+  PTHREAD_CANCEL_ENABLE,
+#define PTHREAD_CANCEL_ENABLE
+  PTHREAD_CANCEL_DISABLE
+#define PTHREAD_CANCEL_DISABLE
+};
+enum
+{
+  PTHREAD_CANCEL_DEFERRED,
+#define PTHREAD_CANCEL_DEFERRED
+  PTHREAD_CANCEL_ASYNCHRONOUS
+#define PTHREAD_CANCEL_ASYNCHRONOUS
+};
+#define PTHREAD_CANCELED
+
+
+
+#define PTHREAD_ONCE_INIT
+
+
+
+
+
+
+#define PTHREAD_BARRIER_SERIAL_THREAD
+
+
+
+extern "C" {
+
+
+
+
+extern int pthread_create (pthread_t *__restrict __newthread,
+      const pthread_attr_t *__restrict __attr,
+      void *(*__start_routine) (void *),
+      void *__restrict __arg) noexcept (true) __attribute__ ((__nonnull__ (1, 3)));
+
+
+
+
+
+extern void pthread_exit (void *__retval) __attribute__ ((__noreturn__));
+
+
+
+
+
+
+
+extern int pthread_join (pthread_t __th, void **__thread_return);
+
+
+
+
+extern int pthread_tryjoin_np (pthread_t __th, void **__thread_return) noexcept (true);
+# 233 "/usr/include/pthread.h" 3 4
+extern int pthread_timedjoin_np (pthread_t __th, void **__thread_return,
+     const struct timespec *__abstime);
+# 243 "/usr/include/pthread.h" 3 4
+extern int pthread_clockjoin_np (pthread_t __th, void **__thread_return,
+                                 clockid_t __clockid,
+     const struct timespec *__abstime);
+# 269 "/usr/include/pthread.h" 3 4
+extern int pthread_detach (pthread_t __th) noexcept (true);
+
+
+
+extern pthread_t pthread_self (void) noexcept (true) __attribute__ ((__const__));
+
+
+extern int pthread_equal (pthread_t __thread1, pthread_t __thread2)
+  noexcept (true) __attribute__ ((__const__));
+
+
+
+
+
+
+
+extern int pthread_attr_init (pthread_attr_t *__attr) noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_attr_destroy (pthread_attr_t *__attr)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_attr_getdetachstate (const pthread_attr_t *__attr,
+     int *__detachstate)
+     noexcept (true) __attribute__ ((__nonnull__ (1, 2)));
+
+
+extern int pthread_attr_setdetachstate (pthread_attr_t *__attr,
+     int __detachstate)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+
+extern int pthread_attr_getguardsize (const pthread_attr_t *__attr,
+          size_t *__guardsize)
+     noexcept (true) __attribute__ ((__nonnull__ (1, 2)));
+
+
+extern int pthread_attr_setguardsize (pthread_attr_t *__attr,
+          size_t __guardsize)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+
+extern int pthread_attr_getschedparam (const pthread_attr_t *__restrict __attr,
+           struct sched_param *__restrict __param)
+     noexcept (true) __attribute__ ((__nonnull__ (1, 2)));
+
+
+extern int pthread_attr_setschedparam (pthread_attr_t *__restrict __attr,
+           const struct sched_param *__restrict
+           __param) noexcept (true) __attribute__ ((__nonnull__ (1, 2)));
+
+
+extern int pthread_attr_getschedpolicy (const pthread_attr_t *__restrict
+     __attr, int *__restrict __policy)
+     noexcept (true) __attribute__ ((__nonnull__ (1, 2)));
+
+
+extern int pthread_attr_setschedpolicy (pthread_attr_t *__attr, int __policy)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_attr_getinheritsched (const pthread_attr_t *__restrict
+      __attr, int *__restrict __inherit)
+     noexcept (true) __attribute__ ((__nonnull__ (1, 2)));
+
+
+extern int pthread_attr_setinheritsched (pthread_attr_t *__attr,
+      int __inherit)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+
+extern int pthread_attr_getscope (const pthread_attr_t *__restrict __attr,
+      int *__restrict __scope)
+     noexcept (true) __attribute__ ((__nonnull__ (1, 2)));
+
+
+extern int pthread_attr_setscope (pthread_attr_t *__attr, int __scope)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_attr_getstackaddr (const pthread_attr_t *__restrict
+          __attr, void **__restrict __stackaddr)
+     noexcept (true) __attribute__ ((__nonnull__ (1, 2))) __attribute__ ((__deprecated__));
+
+
+
+
+
+extern int pthread_attr_setstackaddr (pthread_attr_t *__attr,
+          void *__stackaddr)
+     noexcept (true) __attribute__ ((__nonnull__ (1))) __attribute__ ((__deprecated__));
+
+
+extern int pthread_attr_getstacksize (const pthread_attr_t *__restrict
+          __attr, size_t *__restrict __stacksize)
+     noexcept (true) __attribute__ ((__nonnull__ (1, 2)));
+
+
+
+
+extern int pthread_attr_setstacksize (pthread_attr_t *__attr,
+          size_t __stacksize)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+
+extern int pthread_attr_getstack (const pthread_attr_t *__restrict __attr,
+      void **__restrict __stackaddr,
+      size_t *__restrict __stacksize)
+     noexcept (true) __attribute__ ((__nonnull__ (1, 2, 3)));
+
+
+
+
+extern int pthread_attr_setstack (pthread_attr_t *__attr, void *__stackaddr,
+      size_t __stacksize) noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+
+
+
+extern int pthread_attr_setaffinity_np (pthread_attr_t *__attr,
+     size_t __cpusetsize,
+     const cpu_set_t *__cpuset)
+     noexcept (true) __attribute__ ((__nonnull__ (1, 3)));
+
+
+
+extern int pthread_attr_getaffinity_np (const pthread_attr_t *__attr,
+     size_t __cpusetsize,
+     cpu_set_t *__cpuset)
+     noexcept (true) __attribute__ ((__nonnull__ (1, 3)));
+
+
+extern int pthread_getattr_default_np (pthread_attr_t *__attr)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_attr_setsigmask_np (pthread_attr_t *__attr,
+           const __sigset_t *sigmask);
+
+
+
+
+extern int pthread_attr_getsigmask_np (const pthread_attr_t *__attr,
+           __sigset_t *sigmask);
+
+
+
+#define PTHREAD_ATTR_NO_SIGMASK_NP
+
+
+
+extern int pthread_setattr_default_np (const pthread_attr_t *__attr)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+
+
+extern int pthread_getattr_np (pthread_t __th, pthread_attr_t *__attr)
+     noexcept (true) __attribute__ ((__nonnull__ (2)));
+
+
+
+
+
+
+
+extern int pthread_setschedparam (pthread_t __target_thread, int __policy,
+      const struct sched_param *__param)
+     noexcept (true) __attribute__ ((__nonnull__ (3)));
+
+
+extern int pthread_getschedparam (pthread_t __target_thread,
+      int *__restrict __policy,
+      struct sched_param *__restrict __param)
+     noexcept (true) __attribute__ ((__nonnull__ (2, 3)));
+
+
+extern int pthread_setschedprio (pthread_t __target_thread, int __prio)
+     noexcept (true);
+
+
+
+
+extern int pthread_getname_np (pthread_t __target_thread, char *__buf,
+          size_t __buflen)
+     noexcept (true) __attribute__ ((__nonnull__ (2)));
+
+
+extern int pthread_setname_np (pthread_t __target_thread, const char *__name)
+     noexcept (true) __attribute__ ((__nonnull__ (2)));
+
+
+
+
+
+extern int pthread_getconcurrency (void) noexcept (true);
+
+
+extern int pthread_setconcurrency (int __level) noexcept (true);
+
+
+
+extern int pthread_yield (void) noexcept (true);
+
+extern int pthread_yield (void) noexcept (true) __asm__ ("" "sched_yield")
+  __attribute__ ((__deprecated__ ("pthread_yield is deprecated, use sched_yield instead")))
+                                                      ;
+
+
+
+
+
+
+
+extern int pthread_setaffinity_np (pthread_t __th, size_t __cpusetsize,
+       const cpu_set_t *__cpuset)
+     noexcept (true) __attribute__ ((__nonnull__ (3)));
+
+
+extern int pthread_getaffinity_np (pthread_t __th, size_t __cpusetsize,
+       cpu_set_t *__cpuset)
+     noexcept (true) __attribute__ ((__nonnull__ (3)));
+# 509 "/usr/include/pthread.h" 3 4
+extern int pthread_once (pthread_once_t *__once_control,
+    void (*__init_routine) (void)) __attribute__ ((__nonnull__ (1, 2)));
+# 521 "/usr/include/pthread.h" 3 4
+extern int pthread_setcancelstate (int __state, int *__oldstate);
+
+
+
+extern int pthread_setcanceltype (int __type, int *__oldtype);
+
+
+extern int pthread_cancel (pthread_t __th);
+
+
+
+
+extern void pthread_testcancel (void);
+
+
+
+
+struct __cancel_jmp_buf_tag
+{
+  __jmp_buf __cancel_jmp_buf;
+  int __mask_was_saved;
+};
+
+typedef struct
+{
+  struct __cancel_jmp_buf_tag __cancel_jmp_buf[1];
+  void *__pad[4];
+} __pthread_unwind_buf_t __attribute__ ((__aligned__));
+
+
+
+#define __cleanup_fct_attribute
+
+
+
+
+struct __pthread_cleanup_frame
+{
+  void (*__cancel_routine) (void *);
+  void *__cancel_arg;
+  int __do_it;
+  int __cancel_type;
+};
+
+
+
+
+class __pthread_cleanup_class
+{
+  void (*__cancel_routine) (void *);
+  void *__cancel_arg;
+  int __do_it;
+  int __cancel_type;
+
+ public:
+  __pthread_cleanup_class (void (*__fct) (void *), void *__arg)
+    : __cancel_routine (__fct), __cancel_arg (__arg), __do_it (1) { }
+  ~__pthread_cleanup_class () { if (__do_it) __cancel_routine (__cancel_arg); }
+  void __setdoit (int __newval) { __do_it = __newval; }
+  void __defer () { pthread_setcanceltype (PTHREAD_CANCEL_DEFERRED,
+        &__cancel_type); }
+  void __restore () const { pthread_setcanceltype (__cancel_type, 0); }
+};
+# 592 "/usr/include/pthread.h" 3 4
+#define pthread_cleanup_push
+
+
+
+
+
+#define pthread_cleanup_pop
+
+
+
+
+
+
+
+#define pthread_cleanup_push_defer_np
+
+
+
+
+
+
+
+#define pthread_cleanup_pop_restore_np
+# 766 "/usr/include/pthread.h" 3 4
+extern int __sigsetjmp_cancel (struct __cancel_jmp_buf_tag __env[1], int __savemask) noexcept (true) __asm__ ("" "__sigsetjmp")
+
+
+                     __attribute__ ((__returns_twice__));
+# 781 "/usr/include/pthread.h" 3 4
+extern int pthread_mutex_init (pthread_mutex_t *__mutex,
+          const pthread_mutexattr_t *__mutexattr)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_mutex_destroy (pthread_mutex_t *__mutex)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_mutex_trylock (pthread_mutex_t *__mutex)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_mutex_lock (pthread_mutex_t *__mutex)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+
+
+extern int pthread_mutex_timedlock (pthread_mutex_t *__restrict __mutex,
+        const struct timespec *__restrict
+        __abstime) noexcept (true) __attribute__ ((__nonnull__ (1, 2)));
+# 817 "/usr/include/pthread.h" 3 4
+extern int pthread_mutex_clocklock (pthread_mutex_t *__restrict __mutex,
+        clockid_t __clockid,
+        const struct timespec *__restrict
+        __abstime) noexcept (true) __attribute__ ((__nonnull__ (1, 3)));
+# 835 "/usr/include/pthread.h" 3 4
+extern int pthread_mutex_unlock (pthread_mutex_t *__mutex)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+
+extern int pthread_mutex_getprioceiling (const pthread_mutex_t *
+      __restrict __mutex,
+      int *__restrict __prioceiling)
+     noexcept (true) __attribute__ ((__nonnull__ (1, 2)));
+
+
+
+extern int pthread_mutex_setprioceiling (pthread_mutex_t *__restrict __mutex,
+      int __prioceiling,
+      int *__restrict __old_ceiling)
+     noexcept (true) __attribute__ ((__nonnull__ (1, 3)));
+
+
+
+
+extern int pthread_mutex_consistent (pthread_mutex_t *__mutex)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_mutex_consistent_np (pthread_mutex_t *) noexcept (true) __asm__ ("" "pthread_mutex_consistent")
+                                __attribute__ ((__nonnull__ (1)))
+  __attribute__ ((__deprecated__ ("pthread_mutex_consistent_np is deprecated, use pthread_mutex_consistent")))
+                                                                         ;
+# 874 "/usr/include/pthread.h" 3 4
+extern int pthread_mutexattr_init (pthread_mutexattr_t *__attr)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_mutexattr_destroy (pthread_mutexattr_t *__attr)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_mutexattr_getpshared (const pthread_mutexattr_t *
+      __restrict __attr,
+      int *__restrict __pshared)
+     noexcept (true) __attribute__ ((__nonnull__ (1, 2)));
+
+
+extern int pthread_mutexattr_setpshared (pthread_mutexattr_t *__attr,
+      int __pshared)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+
+extern int pthread_mutexattr_gettype (const pthread_mutexattr_t *__restrict
+          __attr, int *__restrict __kind)
+     noexcept (true) __attribute__ ((__nonnull__ (1, 2)));
+
+
+
+
+extern int pthread_mutexattr_settype (pthread_mutexattr_t *__attr, int __kind)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+
+extern int pthread_mutexattr_getprotocol (const pthread_mutexattr_t *
+       __restrict __attr,
+       int *__restrict __protocol)
+     noexcept (true) __attribute__ ((__nonnull__ (1, 2)));
+
+
+
+extern int pthread_mutexattr_setprotocol (pthread_mutexattr_t *__attr,
+       int __protocol)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_mutexattr_getprioceiling (const pthread_mutexattr_t *
+          __restrict __attr,
+          int *__restrict __prioceiling)
+     noexcept (true) __attribute__ ((__nonnull__ (1, 2)));
+
+
+extern int pthread_mutexattr_setprioceiling (pthread_mutexattr_t *__attr,
+          int __prioceiling)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+
+extern int pthread_mutexattr_getrobust (const pthread_mutexattr_t *__attr,
+     int *__robustness)
+     noexcept (true) __attribute__ ((__nonnull__ (1, 2)));
+
+
+extern int pthread_mutexattr_getrobust_np (pthread_mutexattr_t *, int *) noexcept (true) __asm__ ("" "pthread_mutexattr_getrobust")
+
+                                   __attribute__ ((__nonnull__ (1)))
+  __attribute__ ((__deprecated__ ("pthread_mutexattr_getrobust_np is deprecated, use pthread_mutexattr_getrobust")))
+                                                                               ;
+
+
+
+
+
+
+extern int pthread_mutexattr_setrobust (pthread_mutexattr_t *__attr,
+     int __robustness)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_mutexattr_setrobust_np (pthread_mutexattr_t *, int) noexcept (true) __asm__ ("" "pthread_mutexattr_setrobust")
+
+                                   __attribute__ ((__nonnull__ (1)))
+  __attribute__ ((__deprecated__ ("pthread_mutexattr_setrobust_np is deprecated, use pthread_mutexattr_setrobust")))
+                                                                               ;
+# 967 "/usr/include/pthread.h" 3 4
+extern int pthread_rwlock_init (pthread_rwlock_t *__restrict __rwlock,
+    const pthread_rwlockattr_t *__restrict
+    __attr) noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_rwlock_destroy (pthread_rwlock_t *__rwlock)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_rwlock_rdlock (pthread_rwlock_t *__rwlock)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_rwlock_tryrdlock (pthread_rwlock_t *__rwlock)
+  noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+
+
+extern int pthread_rwlock_timedrdlock (pthread_rwlock_t *__restrict __rwlock,
+           const struct timespec *__restrict
+           __abstime) noexcept (true) __attribute__ ((__nonnull__ (1, 2)));
+# 1004 "/usr/include/pthread.h" 3 4
+extern int pthread_rwlock_clockrdlock (pthread_rwlock_t *__restrict __rwlock,
+           clockid_t __clockid,
+           const struct timespec *__restrict
+           __abstime) noexcept (true) __attribute__ ((__nonnull__ (1, 3)));
+# 1023 "/usr/include/pthread.h" 3 4
+extern int pthread_rwlock_wrlock (pthread_rwlock_t *__rwlock)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_rwlock_trywrlock (pthread_rwlock_t *__rwlock)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+
+
+extern int pthread_rwlock_timedwrlock (pthread_rwlock_t *__restrict __rwlock,
+           const struct timespec *__restrict
+           __abstime) noexcept (true) __attribute__ ((__nonnull__ (1, 2)));
+# 1051 "/usr/include/pthread.h" 3 4
+extern int pthread_rwlock_clockwrlock (pthread_rwlock_t *__restrict __rwlock,
+           clockid_t __clockid,
+           const struct timespec *__restrict
+           __abstime) noexcept (true) __attribute__ ((__nonnull__ (1, 3)));
+# 1071 "/usr/include/pthread.h" 3 4
+extern int pthread_rwlock_unlock (pthread_rwlock_t *__rwlock)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+
+
+
+extern int pthread_rwlockattr_init (pthread_rwlockattr_t *__attr)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_rwlockattr_destroy (pthread_rwlockattr_t *__attr)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_rwlockattr_getpshared (const pthread_rwlockattr_t *
+       __restrict __attr,
+       int *__restrict __pshared)
+     noexcept (true) __attribute__ ((__nonnull__ (1, 2)));
+
+
+extern int pthread_rwlockattr_setpshared (pthread_rwlockattr_t *__attr,
+       int __pshared)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_rwlockattr_getkind_np (const pthread_rwlockattr_t *
+       __restrict __attr,
+       int *__restrict __pref)
+     noexcept (true) __attribute__ ((__nonnull__ (1, 2)));
+
+
+extern int pthread_rwlockattr_setkind_np (pthread_rwlockattr_t *__attr,
+       int __pref) noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+
+
+
+
+
+extern int pthread_cond_init (pthread_cond_t *__restrict __cond,
+         const pthread_condattr_t *__restrict __cond_attr)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_cond_destroy (pthread_cond_t *__cond)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_cond_signal (pthread_cond_t *__cond)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_cond_broadcast (pthread_cond_t *__cond)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+
+
+
+
+extern int pthread_cond_wait (pthread_cond_t *__restrict __cond,
+         pthread_mutex_t *__restrict __mutex)
+     __attribute__ ((__nonnull__ (1, 2)));
+# 1145 "/usr/include/pthread.h" 3 4
+extern int pthread_cond_timedwait (pthread_cond_t *__restrict __cond,
+       pthread_mutex_t *__restrict __mutex,
+       const struct timespec *__restrict __abstime)
+     __attribute__ ((__nonnull__ (1, 2, 3)));
+# 1171 "/usr/include/pthread.h" 3 4
+extern int pthread_cond_clockwait (pthread_cond_t *__restrict __cond,
+       pthread_mutex_t *__restrict __mutex,
+       __clockid_t __clock_id,
+       const struct timespec *__restrict __abstime)
+     __attribute__ ((__nonnull__ (1, 2, 4)));
+# 1194 "/usr/include/pthread.h" 3 4
+extern int pthread_condattr_init (pthread_condattr_t *__attr)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_condattr_destroy (pthread_condattr_t *__attr)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_condattr_getpshared (const pthread_condattr_t *
+     __restrict __attr,
+     int *__restrict __pshared)
+     noexcept (true) __attribute__ ((__nonnull__ (1, 2)));
+
+
+extern int pthread_condattr_setpshared (pthread_condattr_t *__attr,
+     int __pshared) noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+
+extern int pthread_condattr_getclock (const pthread_condattr_t *
+          __restrict __attr,
+          __clockid_t *__restrict __clock_id)
+     noexcept (true) __attribute__ ((__nonnull__ (1, 2)));
+
+
+extern int pthread_condattr_setclock (pthread_condattr_t *__attr,
+          __clockid_t __clock_id)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+# 1230 "/usr/include/pthread.h" 3 4
+extern int pthread_spin_init (pthread_spinlock_t *__lock, int __pshared)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_spin_destroy (pthread_spinlock_t *__lock)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_spin_lock (pthread_spinlock_t *__lock)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_spin_trylock (pthread_spinlock_t *__lock)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_spin_unlock (pthread_spinlock_t *__lock)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+
+
+
+
+extern int pthread_barrier_init (pthread_barrier_t *__restrict __barrier,
+     const pthread_barrierattr_t *__restrict
+     __attr, unsigned int __count)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_barrier_destroy (pthread_barrier_t *__barrier)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_barrier_wait (pthread_barrier_t *__barrier)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+
+extern int pthread_barrierattr_init (pthread_barrierattr_t *__attr)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_barrierattr_destroy (pthread_barrierattr_t *__attr)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_barrierattr_getpshared (const pthread_barrierattr_t *
+        __restrict __attr,
+        int *__restrict __pshared)
+     noexcept (true) __attribute__ ((__nonnull__ (1, 2)));
+
+
+extern int pthread_barrierattr_setpshared (pthread_barrierattr_t *__attr,
+        int __pshared)
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+# 1297 "/usr/include/pthread.h" 3 4
+extern int pthread_key_create (pthread_key_t *__key,
+          void (*__destr_function) (void *))
+     noexcept (true) __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_key_delete (pthread_key_t __key) noexcept (true);
+
+
+extern void *pthread_getspecific (pthread_key_t __key) noexcept (true);
+
+
+extern int pthread_setspecific (pthread_key_t __key,
+    const void *__pointer)
+  noexcept (true) __attribute__ ((__access__ (__none__, 2)));
+
+
+
+
+extern int pthread_getcpuclockid (pthread_t __thread_id,
+      __clockid_t *__clock_id)
+     noexcept (true) __attribute__ ((__nonnull__ (2)));
+# 1332 "/usr/include/pthread.h" 3 4
+extern int pthread_atfork (void (*__prepare) (void),
+      void (*__parent) (void),
+      void (*__child) (void)) noexcept (true);
+
+
+
+
+extern __inline __attribute__ ((__gnu_inline__)) int
+__attribute__ ((__leaf__)) pthread_equal (pthread_t __thread1, pthread_t __thread2) noexcept (true)
+{
+  return __thread1 == __thread2;
+}
+
+
+}
+# 36 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h" 2 3
+# 49 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h" 3
+#define __GTHREAD_ALWAYS_INLINE
+
+
+
+
+
+
+
+#define __GTHREAD_INLINE
+
+
+
+
+typedef pthread_t __gthread_t;
+typedef pthread_key_t __gthread_key_t;
+typedef pthread_once_t __gthread_once_t;
+typedef pthread_mutex_t __gthread_mutex_t;
+
+
+
+typedef pthread_mutex_t __gthread_recursive_mutex_t;
+typedef pthread_cond_t __gthread_cond_t;
+typedef struct timespec __gthread_time_t;
+
+
+
+#define __GTHREAD_HAS_COND
+
+#define __GTHREAD_MUTEX_INIT
+#define __GTHREAD_MUTEX_INIT_FUNCTION
+
+
+
+#define __GTHREAD_ONCE_INIT
+
+
+
+#define __GTHREAD_RECURSIVE_MUTEX_INIT
+
+
+
+#define __GTHREAD_COND_INIT
+#define __GTHREAD_TIME_INIT
+# 116 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h" 3
+#define __gthrw2
+#define __gthrw_
+
+
+
+#define __gthrw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 345 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h" 3
+inline __attribute__((__always_inline__)) int
+__gthread_active_p (void)
+{
+  return 1;
+}
+# 705 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h" 3
+inline __attribute__((__always_inline__)) int
+__gthread_create (__gthread_t *__threadid, void *(*__func) (void*),
+    void *__args)
+{
+  return pthread_create (__threadid, __null, __func, __args);
+}
+
+inline __attribute__((__always_inline__)) int
+__gthread_join (__gthread_t __threadid, void **__value_ptr)
+{
+  return pthread_join (__threadid, __value_ptr);
+}
+
+inline __attribute__((__always_inline__)) int
+__gthread_detach (__gthread_t __threadid)
+{
+  return pthread_detach (__threadid);
+}
+
+inline __attribute__((__always_inline__)) int
+__gthread_equal (__gthread_t __t1, __gthread_t __t2)
+{
+  return pthread_equal (__t1, __t2);
+}
+
+inline __attribute__((__always_inline__)) __gthread_t
+__gthread_self (void)
+{
+  return pthread_self ();
+}
+
+inline __attribute__((__always_inline__)) int
+__gthread_yield (void)
+{
+  return sched_yield ();
+}
+
+inline __attribute__((__always_inline__)) int
+__gthread_once (__gthread_once_t *__once, void (*__func) (void))
+{
+  if (__gthread_active_p ())
+    return pthread_once (__once, __func);
+  else
+    return -1;
+}
+
+inline __attribute__((__always_inline__)) int
+__gthread_key_create (__gthread_key_t *__key, void (*__dtor) (void *))
+{
+  return pthread_key_create (__key, __dtor);
+}
+
+inline __attribute__((__always_inline__)) int
+__gthread_key_delete (__gthread_key_t __key)
+{
+  return pthread_key_delete (__key);
+}
+
+inline __attribute__((__always_inline__)) void *
+__gthread_getspecific (__gthread_key_t __key)
+{
+  return pthread_getspecific (__key);
+}
+
+inline __attribute__((__always_inline__)) int
+__gthread_setspecific (__gthread_key_t __key, const void *__ptr)
+{
+  return pthread_setspecific (__key, __ptr);
+}
+
+inline __attribute__((__always_inline__)) void
+__gthread_mutex_init_function (__gthread_mutex_t *__mutex)
+{
+  if (__gthread_active_p ())
+    pthread_mutex_init (__mutex, __null);
+}
+
+inline __attribute__((__always_inline__)) int
+__gthread_mutex_destroy (__gthread_mutex_t *__mutex)
+{
+  if (__gthread_active_p ())
+    return pthread_mutex_destroy (__mutex);
+  else
+    return 0;
+}
+
+inline __attribute__((__always_inline__)) int
+__gthread_mutex_lock (__gthread_mutex_t *__mutex)
+{
+  if (__gthread_active_p ())
+    return pthread_mutex_lock (__mutex);
+  else
+    return 0;
+}
+
+inline __attribute__((__always_inline__)) int
+__gthread_mutex_trylock (__gthread_mutex_t *__mutex)
+{
+  if (__gthread_active_p ())
+    return pthread_mutex_trylock (__mutex);
+  else
+    return 0;
+}
+
+
+inline __attribute__((__always_inline__)) int
+__gthread_mutex_timedlock (__gthread_mutex_t *__mutex,
+      const __gthread_time_t *__abs_timeout)
+{
+  if (__gthread_active_p ())
+    return pthread_mutex_timedlock (__mutex, __abs_timeout);
+  else
+    return 0;
+}
+
+
+inline __attribute__((__always_inline__)) int
+__gthread_mutex_unlock (__gthread_mutex_t *__mutex)
+{
+  if (__gthread_active_p ())
+    return pthread_mutex_unlock (__mutex);
+  else
+    return 0;
+}
+# 854 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h" 3
+inline __attribute__((__always_inline__)) int
+__gthread_recursive_mutex_lock (__gthread_recursive_mutex_t *__mutex)
+{
+  return __gthread_mutex_lock (__mutex);
+}
+
+inline __attribute__((__always_inline__)) int
+__gthread_recursive_mutex_trylock (__gthread_recursive_mutex_t *__mutex)
+{
+  return __gthread_mutex_trylock (__mutex);
+}
+
+
+inline __attribute__((__always_inline__)) int
+__gthread_recursive_mutex_timedlock (__gthread_recursive_mutex_t *__mutex,
+         const __gthread_time_t *__abs_timeout)
+{
+  return __gthread_mutex_timedlock (__mutex, __abs_timeout);
+}
+
+
+inline __attribute__((__always_inline__)) int
+__gthread_recursive_mutex_unlock (__gthread_recursive_mutex_t *__mutex)
+{
+  return __gthread_mutex_unlock (__mutex);
+}
+
+inline __attribute__((__always_inline__)) int
+__gthread_recursive_mutex_destroy (__gthread_recursive_mutex_t *__mutex)
+{
+  return __gthread_mutex_destroy (__mutex);
+}
+# 896 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h" 3
+inline __attribute__((__always_inline__)) int
+__gthread_cond_broadcast (__gthread_cond_t *__cond)
+{
+  return pthread_cond_broadcast (__cond);
+}
+
+inline __attribute__((__always_inline__)) int
+__gthread_cond_signal (__gthread_cond_t *__cond)
+{
+  return pthread_cond_signal (__cond);
+}
+
+inline __attribute__((__always_inline__)) int
+__gthread_cond_wait (__gthread_cond_t *__cond, __gthread_mutex_t *__mutex)
+{
+  return pthread_cond_wait (__cond, __mutex);
+}
+
+inline __attribute__((__always_inline__)) int
+__gthread_cond_timedwait (__gthread_cond_t *__cond, __gthread_mutex_t *__mutex,
+     const __gthread_time_t *__abs_timeout)
+{
+  return pthread_cond_timedwait (__cond, __mutex, __abs_timeout);
+}
+
+inline __attribute__((__always_inline__)) int
+__gthread_cond_wait_recursive (__gthread_cond_t *__cond,
+          __gthread_recursive_mutex_t *__mutex)
+{
+  return __gthread_cond_wait (__cond, __mutex);
+}
+
+inline __attribute__((__always_inline__)) int
+__gthread_cond_destroy (__gthread_cond_t* __cond)
+{
+  return pthread_cond_destroy (__cond);
+}
+# 983 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h" 3
+#undef __GTHREAD_INLINE
+#undef __GTHREAD_ALWAYS_INLINE
+# 158 "/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr.h" 2 3
+
+
+#pragma GCC visibility pop
+# 3 "config.cc" 2
