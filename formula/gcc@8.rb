@@ -19,7 +19,6 @@ class GccAT8 < Formula
 
   # Unsupported per https://gcc.gnu.org/gcc-8/
   # Last release on 2021-05-14
-  disable! date: "2024-02-22", because: :deprecated_upstream
 
   # The bottles are built on systems with the CLT installed, and do not work
   # out of the box on Xcode-only systems due to an incorrect sysroot.
